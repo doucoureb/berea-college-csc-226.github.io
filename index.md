@@ -4,6 +4,16 @@
 
 ---
 
+## Day 2: Friday, August 20, 2021
+  - **In class**:
+    - Debrief on PB&J
+    - Questons on readings?
+    - Quiz on the [CSC 226 Course syllabus](https://docs.google.com/document/d/11M_Z3Veq3Gt_N0JWY7OCuik-kO2NvdeLxc3sU_aOFZM/edit?usp=sharing) and [Chapter 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70793)  
+    - Complete and submit [T01: Exploring PyCharm](https://docs.google.com/document/d/1Nsa7-jhT_hx2azLENWMJp3TpXbgey5Y90xvyqPj55JU/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
+  - **After class**:
+    - Fix anything that you had trouble with and needed help with.
+    - Read the [Chapter 2: Simple Python Data](https://docs.google.com/document/d/1Nsa7-jhT_hx2azLENWMJp3TpXbgey5Y90xvyqPj55JU/edit?usp=sharing) in preparation for a reading quiz next time. Be sure you are logged in to the bookhttps://docs.google.com/document/d/1Nsa7-jhT_hx2azLENWMJp3TpXbgey5Y90xvyqPj55JU/edit?usp=sharingle when reading, and do all activities to get credit! 
+
 ## Day 1: Wednesday, August 18, 2021
   - **In class**:
     - Welcome
@@ -13,7 +23,7 @@
     - Program two robots to make PBJ sandwiches and debrief about programming them.
   - **After class (before Friday's class)**:
     - Submit [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing). Note that you will be submitting a link.  Most of this assignment must be completed before Friday's class. For the visit to the evening lab, you have a week. This assignment includes:
-    - Reading the [CSC 226 Course syllabus](https://docs.google.com/document/d/11M_Z3Veq3Gt_N0JWY7OCuik-kO2NvdeLxc3sU_aOFZM/edit?usp=sharing), and reading [Chapter 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70793) in [How to Think like a Computer Scientist](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70803) in preparation for a reading quiz next ime. Be sure you are logged in to the book when reading, and do all activities to get credit! On Friday, we will have a quix on both of these readings. 
+    - Read the [CSC 226 Course syllabus](https://docs.google.com/document/d/11M_Z3Veq3Gt_N0JWY7OCuik-kO2NvdeLxc3sU_aOFZM/edit?usp=sharing), and reading [Chapter 1 : Introduction](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70793) in [How to Think like a Computer Scientist](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70803) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit! On Friday, we will have a quix on both of these readings. 
 
 ---
 ###### Copyright © 2021 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License

@@ -15,7 +15,7 @@
     - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/lti?assignment_id=70796) in preparation for a reading quiz next time. Be sure you are logged in to the bookle when reading, and do all activities to get credit! 
 
 ## Day 1: Wednesday, August 18, 2021
-  - **In class**:
+  - **In class**:https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796
     - Welcome
     - Icebreaker
     - Discussion of course: content, text, syllabus, flow, etc

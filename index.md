@@ -12,7 +12,7 @@
     - Begin [T01: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
   - **After class**:
     - Fix anything that you had trouble with and needed help with.
-    - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/lti?assignment_id=70796) in preparation for a reading quiz next time. Be sure you are logged in to the bookle when reading, and do all activities to get credit! 
+    - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796) in preparation for a reading quiz next time. Be sure you are logged in to the bookle when reading, and do all activities to get credit! 
 
 ## Day 1: Wednesday, August 18, 2021
   - **In class**:https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796

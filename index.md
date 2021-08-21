@@ -9,7 +9,7 @@
     - Debrief on PB&J
     - Questons on readings?
     - Quiz on the [CSC 226 Course syllabus](https://docs.google.com/document/d/11M_Z3Veq3Gt_N0JWY7OCuik-kO2NvdeLxc3sU_aOFZM/edit?usp=sharing) and [Chapter 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70793)  
-    - Begin [T01: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
+    - Begin [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
   - **After class**:
     - Fix anything that you had trouble with and needed help with.
     - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796) in preparation for a reading quiz next time. Be sure you are logged in to the bookle when reading, and do all activities to get credit! 

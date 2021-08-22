@@ -9,9 +9,9 @@
     - Quiz on [Chapter 2](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796)
     - Finish working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
     - Address any remaining trouble with [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing)
-    - Begin looking at A01 (needs link when assignment is live)
+    - Begin looking at A01 (coming soon...)
   - **After class**:
-    - Read the [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/books/published/thinkcspy/Debugging/toctree.html) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read the [Chapter 3: Debugging Interlude 1 and the Debbugging Aprendix](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 2: Friday, August 20, 2021
   - **In class**:

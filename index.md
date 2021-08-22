@@ -3,6 +3,14 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 3: Monday, August 23, 2021
+  - **In class**:
+    - Questions on readings?
+    - Quiz on [Chapter 2](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796)
+    - Finish working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
+    - Address any remaining trouble with [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing)
+    - Begin looking at A01 (needs link when assignment is live)
+  - **After class**:
 
 ## Day 2: Friday, August 20, 2021
   - **In class**:
@@ -15,7 +23,8 @@
     - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796) in preparation for a reading quiz next time. Be sure you are logged in to the bookle when reading, and do all activities to get credit! 
 
 ## Day 1: Wednesday, August 18, 2021
-  - **In class**:https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796
+  - **In class**:
+    - https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796
     - Welcome
     - Icebreaker
     - Discussion of course: content, text, syllabus, flow, etc

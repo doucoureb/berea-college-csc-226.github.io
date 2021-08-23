@@ -12,6 +12,8 @@
     - Begin looking at A01 (coming soon...)
   - **After class**:
     - Read the [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) and the [Debugging Appendix](https://runestone.academy/runestone/books/published/thinkcspy/Appendices/errorsAndDebug.html) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) to Moodle before next time.
+    - Be sure to visit the evening lab (7-9 pm in DT 104) to talk with a TA so you can complete [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing). Then submit [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing) to Moodle before next time.
 
 ## Day 2: Friday, August 20, 2021
   - **In class**:

@@ -11,7 +11,7 @@
     - Address any remaining trouble with [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing)
     - Begin looking at A01 (coming soon...)
   - **After class**:
-    - Read the [Chapter 3: Debugging Interlude 1 and the Debbugging Aprendix](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read the [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) and the [Debugging Appendix](https://runestone.academy/runestone/books/published/thinkcspy/Appendices/errorsAndDebug.html) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 2: Friday, August 20, 2021
   - **In class**:

@@ -7,6 +7,7 @@
   - **In class**:
     - Questions on readings?
     - Quiz on [Chapter 2](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796)
+    - Discussion/Questions on PyCharm, Python, and Git/Github
     - Finish working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
     - Address any remaining trouble with [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing)
   - **After class**:

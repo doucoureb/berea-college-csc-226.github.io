@@ -11,7 +11,7 @@
     - Questons on PyCharm or Git and Github?
     - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
-    - Read the [Chapters 4-5: Turtles and Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read the [Chapters 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Begin [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.
 
 ## Day 3: Monday, August 23, 2021

@@ -4,14 +4,25 @@
 
 ---
 
+## Day 5: Friday, August 27, 2021
+  - **In class**:
+    - Questions on reading?
+    - Quiz on [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801)
+    - Complete and submit on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.  This is due before our next class.
+    - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
+    - Discuss [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.
+  - **After class**:
+    - Read [Chapter 5: Python Modules]() in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.
+
 ## Day 4: Wednesday, August 25, 2021
   - **In class**:
     - Questions on readings?
-    - Quiz on  [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) and the [Debugging Appendix](https://runestone.academy/runestone/books/published/thinkcspy/Appendices/errorsAndDebug.html) 
+    - Quiz on [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) and the [Debugging Appendix](https://runestone.academy/runestone/books/published/thinkcspy/Appendices/errorsAndDebug.html) 
     - Questons on PyCharm or Git and Github?
-    - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
+    - Continue working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
   - **After class**:
-    - Read the [Chapters 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Begin [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.
 
 ## Day 3: Monday, August 23, 2021
@@ -19,7 +30,7 @@
     - Questions on readings?
     - Quiz on [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70796)
     - Discussion/Questions on PyCharm, Python, and Git/Github
-    - Finish working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
+    - Continue working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
     - Address any remaining trouble with [A00: Getting Started](https://docs.google.com/document/d/13bjnuAz75sbNLxt7T8mCrbus-iWpWOmd1KNC3WyQeMw/edit?usp=sharing)
   - **After class**:
     - Read the [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) and the [Debugging Appendix](https://runestone.academy/runestone/books/published/thinkcspy/Appendices/errorsAndDebug.html) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!

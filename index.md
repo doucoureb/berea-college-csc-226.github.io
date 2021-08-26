@@ -13,7 +13,7 @@
     - Discuss [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.
   - **After class**:
     - Read [Chapter 5: Python Modules]() in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
-    - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.
+    - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due on Wednesday, September 1, 2021.
 
 ## Day 4: Wednesday, August 25, 2021
   - **In class**:

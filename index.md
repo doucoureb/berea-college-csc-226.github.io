@@ -24,6 +24,7 @@
   - **After class**:
     - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due on Wednesday, September 1, 2021.
     - Complete and submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle. This will be due on Monday, August 30.
+    - Read [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801) (if you have not already done so) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     
 ## Day 4: Wednesday, August 25, 2021
   - **In class**:

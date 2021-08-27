@@ -12,6 +12,8 @@
     - Complete and Submit [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
     - Complete and submit [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) 
+    - Complete and submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle. This will be due on Monday, August 30.
+    - If you want to work ahead, read [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802) in preparation for a reading quiz on Friday. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 5: Friday, August 27, 2021
   - **In class**:
@@ -21,7 +23,6 @@
     - Discuss [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due next week on Wednesday, September 1, 2021.
     - Begin [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
-    - Read [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due on Wednesday, September 1, 2021.
 
 ## Day 4: Wednesday, August 25, 2021
@@ -29,7 +30,7 @@
     - Questions on readings?
     - Quiz on [Chapter 3: Debugging Interlude 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70800) and the [Debugging Appendix](https://runestone.academy/runestone/books/published/thinkcspy/Appendices/errorsAndDebug.html) 
     - Questons on PyCharm or Git and Github?
-    - Continue working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
+    - Continue working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle. This will be due on Monday, August 30.
   - **After class**:
     - Read [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70801) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Begin [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due in one week, on Wednesday, September 1, 2021.

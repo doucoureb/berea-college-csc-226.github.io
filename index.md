@@ -11,7 +11,8 @@
     - Any questions on [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) which is due before class next time on Wednesday, September 1, 2021.
     - Complete and Submit [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
-    - Complete and submit [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing) 
+    - Complete and submit [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing)
+    - Be sure you have submitted [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing) which is due before class next time.
     - If you want to work ahead, read [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802) in preparation for a reading quiz on Friday. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 5: Friday, August 27, 2021

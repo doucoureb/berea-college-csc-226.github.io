@@ -10,7 +10,7 @@
     - Introduce [A02: Loopy Turtles, Loopy Languages](...)
     - Complete and submit [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
-    - Begin [A02: Loopy Turtles, Loopy Languages](...)
+    - Begin [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
     - Be sure you have submitted [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing) which is due before class next time.
     - Read [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802) in preparation for a reading quiz on Friday. Be sure you are logged in to the book when reading, and do all activities to get credit!
 

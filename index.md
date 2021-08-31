@@ -7,7 +7,7 @@
 ## Day 7: Wednesday, September 1, 2021
   - **In class**:
     - Debrief on [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing)
-    - Introduce [A02: Loopy Turtles, Loopy Languages](...)
+    - Introduce [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
     - Complete and submit [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
     - Begin [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)

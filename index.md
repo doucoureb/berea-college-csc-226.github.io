@@ -3,12 +3,19 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 8: Friday, September 3, 2021
+  - **In class**:
+    - Quiz on [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802)
+    - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
+    - Work on [T02: Exploring Turtles](...)
+ - **After class**:
+   -  - Read [Chapter 6: Functions](...) in preparation for a reading quiz on Friday. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 7: Wednesday, September 1, 2021
   - **In class**:
     - Debrief on [A01: Breaking Bad](https://docs.google.com/document/d/1QRrUqCG2fbk1GRdXOFSxxCY9tJwrlkEjBGTwW21ME7M/edit?usp=sharing)
-    - Debrief on pair-programming
     - Introduce [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
+    - Debrief on pair-programming
     - Complete and submit [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1IG9wCXFOpTjpWn8v0vMOvy9p03FKQDRwe94bDZk18wE/edit?usp=sharing)
   - **After class**:
     - Begin [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)

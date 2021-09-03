@@ -3,11 +3,20 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 9: Monday, September 6, 2021
+  - **In class**:
+    - Quiz on [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70807)
+    - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
+    - Discussion about classes and modules terminology.
+    - Complete and submit [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing).
+ - **After class**:
+   -  Complete and submit [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing) which is due before class nexttime.
+
 ## Day 8: Friday, September 3, 2021
   - **In class**:
     - Quiz on [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802)
     - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
-    - Work on [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing)
+    - Work on [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing) which we will finish next time.
  - **After class**:
    -  - Read [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70807) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 

@@ -7,9 +7,9 @@
   - **In class**:
     - Quiz on [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70802)
     - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
-    - Work on [T02: Exploring Turtles](...)
+    - Work on [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing)
  - **After class**:
-   -  - Read [Chapter 6: Functions](...) in preparation for a reading quiz on Friday. Be sure you are logged in to the book when reading, and do all activities to get credit!
+   -  - Read [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70807) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 7: Wednesday, September 1, 2021
   - **In class**:

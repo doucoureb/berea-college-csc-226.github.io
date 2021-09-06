@@ -3,12 +3,20 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 9: Wednesday, September 8, 2021
+  - **In class**:
+    - Art show on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
+    - Discussion about methods and attributes terminology.
+    - Complete and submit [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing).
+ - **After class**:
+   -  Begin [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due in one week on Wednesday, September 15, 2021.
+
 ## Day 9: Monday, September 6, 2021
   - **In class**:
     - Quiz on [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70807)
     - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
     - Discussion about classes and modules terminology.
-    - Complete and submit [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing).
+    - Continue [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing).
  - **After class**:
    -  Complete and submit [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing) which is due before class next time.
 

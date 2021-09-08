@@ -8,8 +8,11 @@
     - Art show on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
     - Discussion about methods and attributes terminology.
     - Complete and submit [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing).
+    - Begin [T02: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1KbUnLsoJ_YL2zD1MXgijSq6s2zm2ILisZJlrpcFniSU/edit?usp=sharing).
  - **After class**:
-   -  Begin [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due in one week on Wednesday, September 15, 2021.
+   - Complete and submit [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing) which is due before the next class.
+   -  Read [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70808) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+   - Begin [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due in one week on Wednesday, September 15, 2021.
 
 ## Day 9: Monday, September 6, 2021
   - **In class**:
@@ -26,7 +29,7 @@
     - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
     - Work on [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing) which we will finish next time.
  - **After class**:
-   -  - Read [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70807) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+   -  Read [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70807) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 7: Wednesday, September 1, 2021
   - **In class**:

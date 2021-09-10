@@ -3,7 +3,16 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 9: Wednesday, September 8, 2021
+## Day 11: Friday, September 10, 2021
+  - **In class**:
+    - Discussion about reading
+    - Quiz on [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70808)
+    - Continue [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1KbUnLsoJ_YL2zD1MXgijSq6s2zm2ILisZJlrpcFniSU/edit?usp=sharing).
+ - **After class**:
+   -  Read [Chapter 8: More About Iteration](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=72427) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+   - Continue [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due on Wednesday, September 15, 2021.
+
+## Day 10: Wednesday, September 8, 2021
   - **In class**:
     - Art show on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing)
     - Discussion about methods and attributes terminology.

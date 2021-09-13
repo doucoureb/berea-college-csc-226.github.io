@@ -7,10 +7,10 @@
   - **In class**:
     - Discussion about reading
     - Quiz on [Chapter 8: More About Iteration](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=72427) 
-    - Questions on [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due before our next class.
-    - Complete [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1KbUnLsoJ_YL2zD1MXgijSq6s2zm2ILisZJlrpcFniSU/edit?usp=sharing).
+    - Questions on [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is ~~due before our next class~~~ extended to Friday.
+    - Continue [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1KbUnLsoJ_YL2zD1MXgijSq6s2zm2ILisZJlrpcFniSU/edit?usp=sharing).
  - **After class**:
-   - Complete [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due on Wednesday, September 15, 2021.
+   - Complete [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due on ~~Wednesday, September 15, 2021.~~ Friday, September 17, 2021
 
 ## Day 11: Friday, September 10, 2021
   - **In class**:

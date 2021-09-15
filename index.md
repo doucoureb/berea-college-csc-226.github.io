@@ -5,7 +5,7 @@
 ---
 ## Day 13: Wednesday, September 15, 2021
   - **In class**:
-    - Comlete and submit [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1KbUnLsoJ_YL2zD1MXgijSq6s2zm2ILisZJlrpcFniSU/edit?usp=sharing).
+    - Complete and submit [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1KbUnLsoJ_YL2zD1MXgijSq6s2zm2ILisZJlrpcFniSU/edit?usp=sharing).
     - Work to complete [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due on ~~Wednesday, September 15, 2021.~~ Friday, September 17, 2021
     - Begin [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing) which is due on Wednesday, September 22, 2021.
  - **After class**:

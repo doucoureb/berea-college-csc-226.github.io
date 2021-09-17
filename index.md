@@ -10,7 +10,7 @@
     - Introduce [T04]()
  - **After class**:
    - Complete [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing) which is due on ~~Wednesday, September 15, 2021.~~ Friday, September 17, 2021
-   -  Read [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/lti?assignment_id=78779) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+   -  Read [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78779) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 13: Wednesday, September 15, 2021
   - **In class**:

@@ -7,7 +7,7 @@
   - **In class**:
     - Questions
     - Quiz on [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78779)
-    - Final questions on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing) which is due before out next class.
+    - Final questions on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing) which is due before our next class.
     - Complete [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing)
  - **After class**:
     - Complete and submit [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing) which is due on Wednesday, September 22, 2021.

@@ -4,8 +4,8 @@
 
 ---
 ## Day 14: Friday, September 17, 2021
-
-    - Go over [A03: Fully Functional Gitty Psychedelic Robotic Turtles]
+  - **In class**:
+    - Go over [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing)
     - Questions on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing)
     - Introduce [T04]()
  - **After class**:

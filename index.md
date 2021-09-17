@@ -3,6 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 15: Monday, September 20, 2021
+  - **In class**:
+    - Questions
+    - Quiz on [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78779)
+    - Final questions on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing) which is due before out next class.
+    - Complete [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing)
+ - **After class**:
+    - Complete and submit [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing) which is due on Wednesday, September 22, 2021.
+
 ## Day 14: Friday, September 17, 2021
   - **In class**:
     - Go over [A03: Fully Functional Gitty Psychedelic Robotic Turtles](https://docs.google.com/document/d/18w-4Msvo09UoiVZ60jB-vDSx2-OmUf7zr9gQnZtMNC8/edit?usp=sharing)

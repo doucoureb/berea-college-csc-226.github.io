@@ -3,6 +3,17 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 16: Monday, September 22, 2021
+  - **In class**:
+    - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing).
+    - Questions on [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing).
+    - Introduce T05: Buggy Fruit (link coming soon)
+    - Introduce A05: The Game of Nim (link coming soon)
+ - **After class**:
+    -  Read Chapter 9: Part 1: 9.1-9.12 Strings (link coming soon) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    -  Complete [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing), due Friday, September 24, 2021.
+    -  Continue A05: The Game of Nim (link coming soon)
+---
 ## Day 15: Monday, September 20, 2021
   - **In class**:
     - Questions

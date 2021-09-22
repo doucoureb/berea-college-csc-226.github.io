@@ -12,7 +12,7 @@
  - **After class**:
     -  Read [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78780) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     -  Complete [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing), due Friday, September 24, 2021.
-    -  Begin [A05: The Game of Nim]([A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing))
+    -  Begin [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)) which is due on Wednesday, September 29.
 
 ## Day 15: Monday, September 20, 2021
   - **In class**:

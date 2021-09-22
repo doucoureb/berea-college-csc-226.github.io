@@ -7,12 +7,12 @@
   - **In class**:
     - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing).
     - Questions on [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing).
-    - Introduce T05: Buggy Fruit (link coming soon)
-    - Introduce A05: The Game of Nim (link coming soon)
+    - Introduce [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing)
+    - Introduce [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)
  - **After class**:
     -  Read [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78780) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     -  Complete [T04: Unit Tests](https://docs.google.com/document/d/1mUKDfp06PuNswx0OuDdvQ98mWJhYia1bQsEoEk3fg0Q/edit?usp=sharing), due Friday, September 24, 2021.
-    -  Continue A05: The Game of Nim (link coming soon)
+    -  Begin [A05: The Game of Nim]([A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing))
 
 ## Day 15: Monday, September 20, 2021
   - **In class**:

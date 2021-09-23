@@ -3,6 +3,18 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 17: Friday, September 24, 2021
+  - **In class**:
+    - Questions on [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78780)
+    - Questions on [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)
+    - Quiz on [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78780)
+    - Continue [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing)
+    - Introduce AR1: Chapter Reviews for Exam E1 (link coming soon).
+ - **After class**:
+    - Complete [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing)
+    - Continue [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)) which is due on Wednesday, September 29.
+    - Work on AR1: Chapter Reviews for Exam E1 (link coming soon).
+
 ## Day 16: Wednesday, September 22, 2021
   - **In class**:
     - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1WXUMYlJzNfLudTVCjBhbjETKspLmzp5vfY8fjI0tJLM/edit?usp=sharing).

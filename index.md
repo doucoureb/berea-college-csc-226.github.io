@@ -13,7 +13,7 @@
  - **After class**:
     - Complete [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing)
     - Continue [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing) which is due on Wednesday, September 29.
-    - Work on AR1: Chapter Reviews for Exam E1 (link coming soon).
+    - Complete [AR1: Chapter Reviews for Exam E1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).
 
 ## Day 16: Wednesday, September 22, 2021
   - **In class**:

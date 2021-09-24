@@ -9,7 +9,7 @@
     - Questions on [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)
     - Quiz on [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78780)
     - Continue [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing)
-    - Introduce AR1: Chapter Reviews for Exam E1 (link coming soon).
+    - Introduce AR1: Chapter Reviews for Exam E1 (https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).
  - **After class**:
     - Complete [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing)
     - Continue [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing) which is due on Wednesday, September 29.

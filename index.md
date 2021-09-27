@@ -3,6 +3,13 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 18: Monday, September 27, 2021
+  - **In class**:
+    - Questions on [AR1: Chapter Reviews for Exam E1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).
+    - Work on [TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1MFlHhBwiXQvduKu8yHz-fQS4GYfs1tiw4aMj2lnHQII/edit?usp=sharing)
+ - **After class**:
+    - Complete [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)
+
 ## Day 17: Friday, September 24, 2021
   - **In class**:
     - Questions on [Chapter 9: Part 1: 9.1-9.12 Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78780)

@@ -9,6 +9,7 @@
     - Work on [TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1MFlHhBwiXQvduKu8yHz-fQS4GYfs1tiw4aMj2lnHQII/edit?usp=sharing)
  - **After class**:
     - Complete [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing)
+    - Complete [TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1MFlHhBwiXQvduKu8yHz-fQS4GYfs1tiw4aMj2lnHQII/edit?usp=sharing), submitting BOTH to Moodle and to Peerwise (https://peerwise.cs.auckland.ac.nz/home/), using course ID: 23895. Note that due to the nature of this work, late work will not be accepted.
 
 ## Day 17: Friday, September 24, 2021
   - **In class**:

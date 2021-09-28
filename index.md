@@ -3,6 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 19: Wednesday, September 29, 2021
+  - **In class**:
+    - Debrief on [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing).
+    - Review questions from [TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1MFlHhBwiXQvduKu8yHz-fQS4GYfs1tiw4aMj2lnHQII/edit?usp=sharing).
+    - Complete [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing).
+    - Launch [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing).
+ - **After class**:
+    - Post review questions to Peerwise.  Review by answering the questions already in Peerwise, and come to class ready with other questions you think of between then and now.
+
 ## Day 18: Monday, September 27, 2021
   - **In class**:
     - Questions on [AR1: Chapter Reviews for Exam E1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).

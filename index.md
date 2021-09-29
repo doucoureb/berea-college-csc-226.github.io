@@ -11,6 +11,7 @@
     - Launch [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing).
  - **After class**:
     - Post approved all review questions to **[Peerwise course 23895](https://peerwise.cs.auckland.ac.nz/at/?berea_edu)  by Thursday morning at 8 am**.  Review by answering the questions already in Peerwise, and come to class ready with other questions you think of between then and now.
+    - Submit [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing) which is due before class on Friday.
 
 ## Day 18: Monday, September 27, 2021
   - **In class**:

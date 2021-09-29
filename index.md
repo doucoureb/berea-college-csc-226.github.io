@@ -10,7 +10,7 @@
     - Complete [T05: Buggy Fruit](https://docs.google.com/document/d/10eCQsP1p2K6P1TjZepiVGvBtTObMdt-Roo32oFOCXDo/edit?usp=sharing).
     - Launch [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing).
  - **After class**:
-    - Post review questions to Peerwise.  Review by answering the questions already in Peerwise, and come to class ready with other questions you think of between then and now.
+    - Post approved all review questions to **[TR1: Peerwise Review for Exam E1](https://docs.google.com/document/d/1MFlHhBwiXQvduKu8yHz-fQS4GYfs1tiw4aMj2lnHQII/edit?usp=sharing)  by Thursday morning at 8 am**.  Review by answering the questions already in Peerwise, and come to class ready with other questions you think of between then and now.
 
 ## Day 18: Monday, September 27, 2021
   - **In class**:

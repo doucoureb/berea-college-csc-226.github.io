@@ -3,6 +3,14 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 20: Friday, October 1, 2021
+  - **In class**:
+    - Questions over material (specific issues only).
+    - Begin and complete(?) T06: Funky Functions (link coming soon).
+ - **After class**:
+    - Complete [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing), due on Wednesday.
+    - Study for the exam!
+
 ## Day 19: Wednesday, September 29, 2021
   - **In class**:
     - Debrief on [A05: The Game of Nim](https://docs.google.com/document/d/12A2JCHzgYCO2gLtZWmQiwm6Naq0-qG7GS6djE80aUBg/edit?usp=sharing).

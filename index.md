@@ -6,7 +6,7 @@
 ## Day 20: Friday, October 1, 2021
   - **In class**:
     - Questions over material (specific issues only).
-    - Begin and complete(?) T06: Funky Functions (link coming soon).
+    - Begin and complete(?) [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on Wednesday.
  - **After class**:
     - Complete [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing), due on Wednesday.
     - Study for the exam!

@@ -8,6 +8,7 @@
     - Exam E1, consisting of both a paper part and a programming part
   - **After class**:
     -  Read [Chapter 10: Part 1: 10.1-9.15 Lists]() in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    -  Complete and submit [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on ~Wednesday~ Friday, October, 8, 2021.
 
 ## No class: Monday, October 4, 2021
   - **Outside of class**:
@@ -17,10 +18,10 @@
 ## Day 20: Friday, October 1, 2021
   - **In class**:
     - Questions over material (specific issues only).
-    - Begin and complete [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on Wednesday.
+    - Begin and complete [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on ~Wednesday~ Friday, October, 8, 2021.
  - **After class**:
     - Complete [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing), due on Wednesday.
-    - Study for the exam!
+    - Study for the exam which is Wednesday!
 
 ## Day 19: Wednesday, September 29, 2021
   - **In class**:

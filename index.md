@@ -3,10 +3,20 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 21: Wednesday, October 6, 2021
+  - **In class**:
+    - Exam E1, consisting of both a paper part and a programming part
+  - **After class**:
+    -  Read [Chapter 10: Part 1: 10.1-9.15 Lists]() in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
+## No class: Monday, October 4, 2021
+    - Complete [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing), due on Wednesday.
+    - Study for the exam!
+
 ## Day 20: Friday, October 1, 2021
   - **In class**:
     - Questions over material (specific issues only).
-    - Begin and complete(?) [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on Wednesday.
+    - Begin and complete [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on Wednesday.
  - **After class**:
     - Complete [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing), due on Wednesday.
     - Study for the exam!

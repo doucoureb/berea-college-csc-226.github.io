@@ -10,6 +10,7 @@
     -  Read [Chapter 10: Part 1: 10.1-9.15 Lists]() in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## No class: Monday, October 4, 2021
+  - **Outside of class**:
     - Complete [A06: Rock Paper Scissors](https://docs.google.com/document/d/1sXpUmKU376ofxPG3eEdtSG2N4ktWc5qEyN8OHamrJ5s/edit?usp=sharing), due on Wednesday.
     - Study for the exam!
 

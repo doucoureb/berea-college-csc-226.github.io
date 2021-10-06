@@ -8,7 +8,7 @@
     - Exam E1, consisting of both a paper part and a programming part
   - **After class**:
     -  Read [Chapter 10: Part 1: 10.1-9.15 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80332) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
-    -  Complete and submit [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on ~Wednesday~ Friday, October, 8, 2021.
+    -  Complete and submit [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on ~~~ednesday~~ Friday, October, 8, 2021.
 
 ## No class: Monday, October 4, 2021
   - **Outside of class**:

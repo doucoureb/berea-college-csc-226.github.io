@@ -3,11 +3,20 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 22: Friday, October 8, 2021
+  - **In class**:
+    - Debrief on review process
+    - Debrief on Exam 1
+    - Quiz on [Chapter 10: Part 1: 10.1-9.15 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80332)
+    - Launch T07: Mad Libs (link coming soon)
+  - **After class**:
+    -  Read Chapter 10: Part 2: 10.15-10.30 Lists (link coming soon) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit.
+
 ## Day 21: Wednesday, October 6, 2021
   - **In class**:
     - Exam E1, consisting of both a paper part and a programming part
   - **After class**:
-    -  Read [Chapter 10: Part 1: 10.1-9.15 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80332) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    -  Read [Chapter 10: Part 1: 10.1-10.15 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80332) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     -  Complete and submit [T06: Funky Functions](https://docs.google.com/document/d/1CgDHaduS0mYzfUW8jYmZ8-2Dz10CCG-i6OtQnIqAFU0/edit?usp=sharing), due on ~~Wednesday~~ Friday, October, 8, 2021.
 
 ## No class: Monday, October 4, 2021

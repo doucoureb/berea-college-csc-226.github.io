@@ -1,1 +1,1 @@
-# Welcome to the website for CSC 226: Software Design and Implementation at Berea College
+## Website for CSC 226: Software Design and Implementation at Berea College

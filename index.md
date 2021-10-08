@@ -8,7 +8,6 @@
     - Debrief on review process
     - Debrief on Exam 1
     - Quiz on [Chapter 10: Part 1: 10.1-9.15 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80332)
-    - Launch [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)
     - Launch [AR2: Top-down Design](https://docs.google.com/document/d/1v9qTAHDTiW78A_pjzWhxXItpC7MOrCG6UkNSYF_dSe0/edit?usp=sharing)
   - **After class**:
     -  Read [Chapter 10: Part 2: 10.15-10.30 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80333) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit.

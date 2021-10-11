@@ -3,6 +3,12 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 23: Monday, October 11, 2021
+  - **In class**:
+    - Quiz on [Chapter 10: Part 2: 10.15-10.30 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80333)
+  - **After class**:
+    - Complete [AR2: Top-down Design](https://docs.google.com/document/d/1v9qTAHDTiW78A_pjzWhxXItpC7MOrCG6UkNSYF_dSe0/edit?usp=sharing) which is due on Wednesday, October 13 (Mountain Day)
+
 ## Day 22: Friday, October 8, 2021
   - **In class**:
     - Debrief on review process

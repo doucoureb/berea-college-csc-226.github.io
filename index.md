@@ -8,6 +8,7 @@
     - Quiz on [Chapter 10: Part 2: 10.15-10.30 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80333)
   - **After class**:
     - Complete [AR2: Top-down Design](https://docs.google.com/document/d/1v9qTAHDTiW78A_pjzWhxXItpC7MOrCG6UkNSYF_dSe0/edit?usp=sharing) which is due on Wednesday, October 13 (Mountain Day)
+    - Read [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81162)in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit.
 
 ## Day 22: Friday, October 8, 2021
   - **In class**:

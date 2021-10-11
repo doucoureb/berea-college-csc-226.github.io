@@ -9,6 +9,7 @@
     - Begin [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)
   - **After class**:
     - Complete [AR2: Top-down Design](https://docs.google.com/document/d/1v9qTAHDTiW78A_pjzWhxXItpC7MOrCG6UkNSYF_dSe0/edit?usp=sharing) which is due on Wednesday, October 13 (Mountain Day)
+    - Begin [A07: Its in Your Genes](https://docs.google.com/document/d/1BW9lat8C29P4sOOiRy8Oz4rsUrpfOeecJSNioSPh1E8/edit?usp=sharing) and meet MIlestone 1 by Friday, October 15, 2021
 
 ## Day 22: Friday, October 8, 2021
   - **In class**:

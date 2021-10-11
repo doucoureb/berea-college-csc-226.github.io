@@ -9,7 +9,6 @@
     - Begin [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)
   - **After class**:
     - Complete [AR2: Top-down Design](https://docs.google.com/document/d/1v9qTAHDTiW78A_pjzWhxXItpC7MOrCG6UkNSYF_dSe0/edit?usp=sharing) which is due on Wednesday, October 13 (Mountain Day)
-    - Read [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81162)in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit.
 
 ## Day 22: Friday, October 8, 2021
   - **In class**:

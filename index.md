@@ -3,6 +3,13 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 24: Wednesday, October 15, 2021
+  - **In class**:
+    - Questions over [A07: Its in Your Genes](https://docs.google.com/document/d/1BW9lat8C29P4sOOiRy8Oz4rsUrpfOeecJSNioSPh1E8/edit?usp=sharing)
+    - Continue [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)
+  - **After class**:
+    - Read Chapter 12: Dictionaries (link coming soon) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit.
+
 ## Day 23: Monday, October 11, 2021
   - **In class**:
     - Quiz on [Chapter 10: Part 2: 10.15-10.30 Lists](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=80333)

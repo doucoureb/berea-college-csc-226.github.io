@@ -3,7 +3,7 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 24: Wednesday, October 15, 2021
+## Day 24: Friday, October 15, 2021
   - **In class**:
     - Questions over [A07: Its in Your Genes](https://docs.google.com/document/d/1BW9lat8C29P4sOOiRy8Oz4rsUrpfOeecJSNioSPh1E8/edit?usp=sharing)
     - Continue [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)

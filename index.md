@@ -10,7 +10,6 @@
     - Begin [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing)
   - **After class**:
     - Complete and submit [A07: Its in Your Genes](https://docs.google.com/document/d/1BW9lat8C29P4sOOiRy8Oz4rsUrpfOeecJSNioSPh1E8/edit?usp=sharing) which is due before the next class.
-    - Work on [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing)
 
 ## Day 24: Friday, October 15, 2021
   - **In class**:

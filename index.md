@@ -7,14 +7,14 @@
   - **In class**:
     - Questions over [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81162)
     - Quiz over [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81162)
-    - Launch [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing)
+    - Begin [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing)
   - **After class**:
     - Work on [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing)
 
 ## Day 24: Friday, October 15, 2021
   - **In class**:
     - Questions over [A07: Its in Your Genes](https://docs.google.com/document/d/1BW9lat8C29P4sOOiRy8Oz4rsUrpfOeecJSNioSPh1E8/edit?usp=sharing)
-    - Continue [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)
+    - Complete and submit [T07: Mad Libs](https://docs.google.com/document/d/1SmMwTECpE4INiWPyjdFgv1eV1ReSiTZZ2-79jiC1WzE/edit?usp=sharing)
   - **After class**:
     - Read [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81162) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit.
 

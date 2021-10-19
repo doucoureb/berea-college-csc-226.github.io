@@ -7,7 +7,7 @@
   - **In class**:
     - Questions over [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing).
     - Discuss [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
-    - Comtinue [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing).
+    - Continue [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing).
   - **After class**:
     - Reading assignment over [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81161).
     - Complete [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing).

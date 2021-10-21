@@ -3,6 +3,17 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 27: Friday, October 22, 2021
+  - **In class**:
+    - Questions over [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
+    - Questions over [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81161).
+    - Quiz.
+    - Begin T09: Oh, the Places You'll Go (link coming soon).
+  - **After class**:
+    - Reading assignment over Chapter 13: Exceptions (link coming soon).
+    - Continue T09: Oh, the Places You'll Go (link coming soon).
+    - Work on [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
+
 ## Day 26: Wednesday, October 20, 2021
   - **In class**:
     - Questions over [T08: UPC Design Document](https://docs.google.com/document/d/1G8iaTJTT_ZI6fYKWbyF77TagZC5Ny8fCVdn5AmuP2xg/edit?usp=sharing).

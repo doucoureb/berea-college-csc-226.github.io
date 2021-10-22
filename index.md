@@ -8,10 +8,8 @@
     - Questions over [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
     - Questions over [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81161).
     - Quiz.
-    - Begin T09: Oh, the Places You'll Go (link coming soon).
+    - Begin [T09: Oh, the Places You'll Go](https://docs.google.com/document/d/1zo5RWLui5yQUT8fUBHcQd2brVhkGGH8OS6PZ5lau2V8/edit?usp=sharing).
   - **After class**:
-    - Reading assignment over Chapter 13: Exceptions (link coming soon).
-    - Continue T09: Oh, the Places You'll Go (link coming soon).
     - Work on [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
 
 ## Day 26: Wednesday, October 20, 2021

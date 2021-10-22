@@ -7,7 +7,7 @@
   - **In class**:
     - Questions over [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
     - Questions over [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81161).
-    - Quiz.
+    - Quiz on  [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=81161)
     - Begin [T09: Oh, the Places You'll Go](https://docs.google.com/document/d/1zo5RWLui5yQUT8fUBHcQd2brVhkGGH8OS6PZ5lau2V8/edit?usp=sharing).
   - **After class**:
     - Work on [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).

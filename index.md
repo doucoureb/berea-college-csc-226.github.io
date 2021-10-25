@@ -6,7 +6,7 @@
 ## Day 28: Monday, October 25, 2021
   - **In class**:
     - Questions
-    - Continue [T09: Oh, the Places You'll Go](https://docs.google.com/document/d/1zo5RWLui5yQUT8fUBHcQd2brVhkGGH8OS6PZ5lau2V8/edit?usp=sharing).
+    - Complete [T09: Oh, the Places You'll Go](https://docs.google.com/document/d/1zo5RWLui5yQUT8fUBHcQd2brVhkGGH8OS6PZ5lau2V8/edit?usp=sharing).
     - Work on [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).
   - **After class**:
     - Complete [A08: UPC Bar Codes](https://docs.google.com/document/d/1odd76KsJtK7yIdgGv6K748C87Ee1x524XJpQ_HQb3QU/edit?usp=sharing).

@@ -7,10 +7,8 @@
   - **In class**:
     - Questions
     - Launch [T10: Making Your Own Modules](https://docs.google.com/document/d/1LWv-KZmS9HKXjW8OjJHOlqlfLj1qbEG44q1Wrl2DU18/edit?usp=sharing).
-    - Launch [A09: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
   - **After class**:
     - Reading assignment over [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=82304).
-    - Work on [A09: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
 
 ## Day 28: Monday, October 25, 2021
   - **In class**:

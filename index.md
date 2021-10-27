@@ -7,8 +7,10 @@
   - **In class**:
     - Questions
     - Launch [T10: Making Your Own Modules](https://docs.google.com/document/d/1LWv-KZmS9HKXjW8OjJHOlqlfLj1qbEG44q1Wrl2DU18/edit?usp=sharing).
+    - Begin [A09: Error Detection](https://docs.google.com/document/d/1sVQAi4CMhm_N8fCRTkfy2doNf1oa-XvQaLbliXv7ea0/edit?usp=sharing).
   - **After class**:
     - Reading assignment over [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=82304).
+    - Work on [A09: Error Detection](https://docs.google.com/document/d/1sVQAi4CMhm_N8fCRTkfy2doNf1oa-XvQaLbliXv7ea0/edit?usp=sharing).
 
 ## Day 28: Monday, October 25, 2021
   - **In class**:

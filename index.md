@@ -3,6 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 31: Monday, November 1, 2021
+  - **In class**:
+    - Questions over [Chapter 17: Objects and Classes - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=85213).
+    - Quiz Q15.
+    - Continue [T10: Making Your Own Modules](https://docs.google.com/document/d/1LWv-KZmS9HKXjW8OjJHOlqlfLj1qbEG44q1Wrl2DU18/edit?usp=sharing).
+  - **After class**:
+    - Reading assignment over Chapter 18: Classes - Digging a Little Deeper (link coming soon)
+    - Complete [A09: Error Detection](https://docs.google.com/document/d/1sVQAi4CMhm_N8fCRTkfy2doNf1oa-XvQaLbliXv7ea0/edit?usp=sharing).
+
 ## Day 30: Friday, October 29, 2021
   - **In class**:
     - Questions over [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=82304).

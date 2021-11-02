@@ -5,6 +5,14 @@
 ---
 ## Day 31: Monday, November 1, 2021
   - **In class**:
+    - Thoughts on [A09: Error Detection](https://docs.google.com/document/d/1sVQAi4CMhm_N8fCRTkfy2doNf1oa-XvQaLbliXv7ea0/edit?usp=sharing).
+    - Launch [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
+  - **After class**:
+    - Complete reading assignment over [Chapter 18: Classes - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=85509).
+    - Work on [A10: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
+
+## Day 31: Monday, November 1, 2021
+  - **In class**:
     - Questions over [Chapter 17: Objects and Classes - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=85213).
     - Quiz Q15.
     - Complete [T10: Making Your Own Modules](https://docs.google.com/document/d/1LWv-KZmS9HKXjW8OjJHOlqlfLj1qbEG44q1Wrl2DU18/edit?usp=sharing).

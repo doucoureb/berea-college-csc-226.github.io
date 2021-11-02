@@ -3,7 +3,7 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 31: Monday, November 1, 2021
+## Day 31: Wednesday, November 3, 2021
   - **In class**:
     - Thoughts on [A09: Error Detection](https://docs.google.com/document/d/1sVQAi4CMhm_N8fCRTkfy2doNf1oa-XvQaLbliXv7ea0/edit?usp=sharing).
     - Launch [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).

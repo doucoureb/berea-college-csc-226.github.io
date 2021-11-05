@@ -8,7 +8,7 @@
     - Questions over [Chapter 18: Classes - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=85509).
     - Quiz Q16: Classes (Part 2)
     - Complete [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
-    - Launch  T12: Keep it Classy! (link coming soon).
+    - Launch  [T12: Keep it Classy!](https://docs.google.com/document/d/1QrIKreNmaTocVy3V9x38-TfjNUwA5x0zOBta-wygru0/edit?usp=sharing).
   - **After class**:
     - Complete reading assignment over Chapter 19: Inheritance (link coming soon).
     - Work on [A10: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).

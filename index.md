@@ -7,10 +7,9 @@
   - **In class**:
     - Questions over [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86276).
     - Quiz Q17: Inheritance
-    - Complete [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
+    - Work on [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).  We will complete this teamwork in class on Wednesday, November 10.
   - **After class**:
     - Complete [A10: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
-    - Complete [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
 
 ## Day 33: Friday, November 5, 2021
   - **In class**:

@@ -12,7 +12,7 @@
   - **After class**:
     - Complete [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
     - Work on Launch [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing).
-    - Complete reading assignment over [Chapter 15: GUI and Event Driven Programming](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86881).
+    - Complete reading assignment over [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.10)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86881).
 
 ## Day 34: Monday, November 8, 2021
   - **In class**:

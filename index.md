@@ -3,7 +3,7 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 35: Friday, November 10, 2021
+## Day 35: Wednesday, November 10, 2021
   - **In class**:
     - Debrief on [A10: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
     - Continue [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).

@@ -8,7 +8,7 @@
     - Quiz Q18
     - Begin [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/1eatz35uMDJton4mbhcbgyNtFcSZxCi0Sqw9IwUSDZhw/edit?usp=sharing).
   - **After class**:
-    - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Wednesday, November 17.
+    - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on ~~Wednesday, November 17~~ Friday, November 19.
     - Complete [AR3: Exam 2 Review](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing) which is due Monday.
     - **Announcement: The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
 
@@ -16,10 +16,10 @@
   - **In class**:
     - Debrief on [A10: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
     - Continue [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
-    - Begin [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Wednesday, November 17.
+    - Launch [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing)
   - **After class**:
     - Complete [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
-    - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing).
+    - Begin [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing)  which is due on ~~Wednesday, November 17~~ Friday, November 19.
     - Complete reading assignment over [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.10)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86881).
 
 ## Day 34: Monday, November 8, 2021

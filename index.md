@@ -3,6 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 36: Friday, November 12, 2021
+  - **In class**:
+    - Questions over [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.10)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86881).
+    - Quiz Q18
+    - Launch [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/1eatz35uMDJton4mbhcbgyNtFcSZxCi0Sqw9IwUSDZhw/edit?usp=sharing).
+  - **After class**:
+    - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing).
+    - Complete reading assignment over [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.10)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70793).
+
 ## Day 35: Wednesday, November 10, 2021
   - **In class**:
     - Debrief on [A10: Ciphers](https://docs.google.com/document/d/1DkySXDw3qgcAYv65Vior5bZXIUdAKA9iyzuErR4E0Yo/edit?usp=sharing).
@@ -11,7 +20,7 @@
     - Launch [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing).
   - **After class**:
     - Complete [T11: Introduction to Classes](https://docs.google.com/document/d/1KY35De5Y19JjVkO0kl6wFF_JR19SsZY5zH2G2AdMG9g/edit?usp=sharing).
-    - Work on Launch [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing).
+    - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing).
     - Complete reading assignment over [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.10)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86881).
 
 ## Day 34: Monday, November 8, 2021

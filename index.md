@@ -10,6 +10,7 @@
   - **After class**:
     - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Wednesday, November 17.
     - Complete [AR3: Exam 2 Review](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing) which is due Monday.
+    - **Announcement: The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
 
 ## Day 35: Wednesday, November 10, 2021
   - **In class**:

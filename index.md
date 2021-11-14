@@ -2,6 +2,13 @@
 ### Profs. Jan Pearce and Patrick Shepherd
 #### Berea College Fall 2021 Offering
 
+## Day 37: Monday, November 15, 2021
+  - **In class**:
+    - Questions over [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Friday, November 19.
+    - TR2: Peerwise Review for Exam E2 (link coming soon).
+  - **After class**:
+    - Complete reading assignment Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31) (link coming soon).
+
 ## Day 36: Friday, November 12, 2021
   - **In class**:
     - Questions over [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.10)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=86881).

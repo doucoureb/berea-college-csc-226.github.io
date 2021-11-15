@@ -7,7 +7,7 @@
     - Questions over [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Friday, November 19.
     - [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1S_U1OiMMh41dw9MxyCz419htEMJisH1SGBlJ66Di5ek/edit?usp=sharing).
   - **After class**:
-    - Complete reading assignment [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077) which is due on Friday, November 19.
+    - Complete reading assignment [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077) which is due on Wednesday, November 17.
 
 ## Day 36: Friday, November 12, 2021
   - **In class**:

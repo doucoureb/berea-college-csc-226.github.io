@@ -4,13 +4,14 @@
 
 ## Day 38: Wednesday, November 17, 2021
   - **In class**:
-    - Discuss quiz
+    - Discuss quiz - postponed to Friday
     - Questions over [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Friday, November 19.
     - Refine questions in [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1S_U1OiMMh41dw9MxyCz419htEMJisH1SGBlJ66Di5ek/edit?usp=sharing)
     - Add questions to [Peerwise](https://peerwise.cs.auckland.ac.nz/home/), Using course ID: 24136 before the end of class.
     - Complete [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/1eatz35uMDJton4mbhcbgyNtFcSZxCi0Sqw9IwUSDZhw/edit?usp=sharing).
   - **After class**:
     - Complete  [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Friday, November 19.
+    - We will have a quiz on the reading assignment [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077) which is ~~due on Wednesday, November 17.~~ postponed to Friday, November 19.
 
 ## Day 37: Monday, November 15, 2021
   - **In class**:

@@ -12,6 +12,7 @@
   - **After class**:
     - Continue  [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on ~~Friday, November 19.~~ Monday, December 6.
     - We will have a quiz on the reading assignment [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077) which is ~~due on Wednesday, November 17.~~ Friday, November 19.
+  - **Reminder: The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
 
 ## Day 37: Monday, November 15, 2021
   - **In class**:
@@ -22,6 +23,7 @@
   - **After class**:
     - Complete the google doc portion of [TR2: Peerwise Review for Exam E2](https://docs.google.com/document/d/1S_U1OiMMh41dw9MxyCz419htEMJisH1SGBlJ66Di5ek/edit?usp=sharing).
     - Complete reading assignment [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077) which is due on Wednesday, November 17.
+  - **Reminder: The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
 
 ## Day 36: Friday, November 12, 2021
   - **In class**:
@@ -31,7 +33,7 @@
   - **After class**:
     - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on ~~Wednesday, November 17~~ Friday, November 19.
     - Complete [AR3: Exam 2 Review](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing) which is due Monday.
-    - **Announcement: The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
+  - **Announcement: The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
 
 ## Day 35: Wednesday, November 10, 2021
   - **In class**:

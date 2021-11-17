@@ -2,7 +2,7 @@
 ### Profs. Jan Pearce and Patrick Shepherd
 #### Berea College Fall 2021 Offering
 
-## Day 38: Wednesay, November 17, 2021
+## Day 38: Wednesday, November 17, 2021
   - **In class**:
     - Discuss quiz
     - Questions over [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Friday, November 19.

@@ -14,7 +14,7 @@
     - We will have a quiz on the reading assignment [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077) which is ~~due on Wednesday, November 17.~~ Friday, November 19.
   - **Reminder: 
     - The second exam will be held in class on Monday, November 22. Be sure to plan to be in class on that day!**
-    - The CS Alumni Homecoming Panel is this Satruday, November 20 at 1 pm in DT 108A. If you go to both parts, we will drop an extra quiz score (which is like getting a perfect quiz averaged into your quiz total.
+    - The CS Alumni Homecoming Panel is this Satruday, November 20 at 1 pm in DT 108A. If you go to both parts, we will drop an extra quiz score, which is like getting a perfect quiz averaged into your quiz total.
 
 ## Day 37: Monday, November 15, 2021
   - **In class**:

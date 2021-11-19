@@ -2,6 +2,17 @@
 ### Profs. Jan Pearce and Patrick Shepherd
 #### Berea College Fall 2021 Offering
 
+## Day 39: Friday, November 19, 2021
+  - **In class**:
+    - Questions over [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)]
+    - Questions over [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Friday, November 19.
+    - Quiz 19
+    - Complete [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/1eatz35uMDJton4mbhcbgyNtFcSZxCi0Sqw9IwUSDZhw/edit?usp=sharing).
+  - **After class**:
+    - **STUDY** for the second exam, to be held in class on Monday, November 22. Be sure to plan to be in class on that day!
+  - **Reminders**:
+    - The CS Alumni Homecoming Panel is this Satruday, November 20 at 1 pm in DT 108A. If you go to both parts, we will drop an extra quiz score, which is like getting a perfect quiz averaged into your quiz total.
+
 ## Day 38: Wednesday, November 17, 2021
   - **In class**:
     - Discuss quiz - postponed to Friday

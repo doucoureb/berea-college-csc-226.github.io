@@ -2,6 +2,13 @@
 ### Profs. Jan Pearce and Patrick Shepherd
 #### Berea College Fall 2021 Offering
 
+## Day 40: Monday, November 22, 2021
+  - **In class**:
+    - Exam E2
+  - **After Class**
+    - Complete [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/1eatz35uMDJton4mbhcbgyNtFcSZxCi0Sqw9IwUSDZhw/edit?usp=sharing), which is due on Wednesday, November 24, at the beginning of "class time".
+    - Continue [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Monday, December 6.
+
 ## Day 39: Friday, November 19, 2021
   - **In class**:
     - Questions over [Chapter 15: GUI and Event Driven Programming (Part 2: 15.11 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=87077).

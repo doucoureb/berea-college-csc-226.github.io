@@ -8,6 +8,9 @@
   - **After Class**
     - Complete [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/1eatz35uMDJton4mbhcbgyNtFcSZxCi0Sqw9IwUSDZhw/edit?usp=sharing), which is due on Wednesday, November 24, at the beginning of "class time".
     - Continue [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Monday, December 6.
+    - [P01](https://docs.google.com/document/d/1AVt46sKdUtGa2R6cowReB6RBn15PVdtV5m_L0mX5j_E/edit?usp=sharing) is now available on Moodle, and will have four Milestones to complete between now and the last day (Dec 10).  You do not have to start yet, but it is a good idea to be looking over the materials.
+  - **Reminder**
+    - There IS a requirement that you attend class on December 10 for the project presentations.
 
 ## Day 39: Friday, November 19, 2021
   - **In class**:

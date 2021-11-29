@@ -8,7 +8,7 @@
     - Work on Project [P01](https://docs.google.com/document/d/1AVt46sKdUtGa2R6cowReB6RBn15PVdtV5m_L0mX5j_E/edit?usp=sharing).  There are four Milestones to complete between now and the last day (Dec 10).
   - **After Class**
     - Work on [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Monday, December 6.
-    - Work on [P01](https://docs.google.com/document/d/1AVt46sKdUtGa2R6cowReB6RBn15PVdtV5m_L0mX5j_E/edit?usp=sharing) is now available on Moodle, and will have four Milestones to complete between now and the last day (Dec 10).  You do not have to start yet, but it is a good idea to be looking over the materials.
+    - Work on [P01](https://docs.google.com/document/d/1AVt46sKdUtGa2R6cowReB6RBn15PVdtV5m_L0mX5j_E/edit?usp=sharing).
   - **Reminder**
     - There IS a requirement that you attend class on December 10 for the project presentations.
 

@@ -12,6 +12,7 @@
     - Work on [P01](https://docs.google.com/document/d/1AVt46sKdUtGa2R6cowReB6RBn15PVdtV5m_L0mX5j_E/edit?usp=sharing).  Milestone 3 is due on Monday, December 6.
   - **Reminder**
     - There IS a requirement that you attend class on December 10 for the project presentations.
+    - The Final Exam is on Friday, December 10, at 11:45am.
 
 ## Day 42: Wednesday, December 1, 2021
   - **In class**:

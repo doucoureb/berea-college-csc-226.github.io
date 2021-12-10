@@ -2,6 +2,11 @@
 ### Profs. Jan Pearce and Patrick Shepherd
 #### Berea College Fall 2021 Offering
 
+## Day 44: Friday, December 10, 2021
+  - **In class**:
+    - Presentation on Project [P01](https://docs.google.com/document/d/1AVt46sKdUtGa2R6cowReB6RBn15PVdtV5m_L0mX5j_E/edit?usp=sharing)!
+    - For presentations, you will give a brief overview of your code modifications (how did you make your program do all that cool stuff?!), and then a live demonstration.  Show everyone your creative chops!
+
 ## Day 43: Friday, December 3, 2021
   - **In class**:
     - Last chance for questions over [A11: PPM](https://docs.google.com/document/d/1tJYYSurgn0yFq9LHnDBceQuB7_F7sp8ff9Mhg9ImgYY/edit?usp=sharing) which is due on Monday, December 6.

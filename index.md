@@ -1,6 +1,6 @@
 ## CSC 226: Software Design and Implementation
-### Profs. Jan Pearce and Patrick Shepherd
-#### Berea College Fall 2021 Offering
+### Prof. Patrick Shepherd
+#### Berea College Spring 2022 Offering
 
 ## Day 1: Wednesday, January 12, 2022
   - **In class**:

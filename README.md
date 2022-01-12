@@ -9,9 +9,9 @@
     - Discussion of course: content, text, syllabus, flow, etc
     - Sign up for the Text: [How to Think like a Computer Scientist](https://runestone.academy), using your Berea email and username to create a login and join the book csc226-spr22.
     - Program two robots to make PBJ sandwiches and debrief about programming them..
-    - Launch A00: Getting Started (link coming soon)
+    - Launch [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing)
   - **After class (before Friday's class)**:
-    - Submit A00: Getting Started (link coming soon). Note that you will be submitting a link.  Most of this assignment must be completed before Friday's class. For the visit to the evening lab, you have a week-- the vist to the evening lab part is due by Wednesday, January 19, 2022. This assignment includes the following which need to be done by Friday:
+    - Submit [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing). Note that you will be submitting a link.  Most of this assignment must be completed before Friday's class. For the visit to the evening lab, you have a week-- the vist to the evening lab part is due by Wednesday, January 19, 2022. This assignment includes the following which need to be done by Friday:
     - Read the [CSC 226 Course syllabus](https://docs.google.com/document/d/1ffcIRpCRh4acwO2PC3BQESf8XvPKJGvBzGAb9pJELgM/edit?usp=sharing), and reading [Chapter 1 : Introduction](https://runestone.academy/assignments/doAssignment?assignment_id=92454) in [How to Think like a Computer Scientist](https://runestone.academy) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit! On Friday, we will have a quiz on both of these readings. 
 ---
 

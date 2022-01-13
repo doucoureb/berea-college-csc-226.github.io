@@ -9,7 +9,7 @@
     - Begin T00: Exploring PyCharm (link coming soon) with a partner. Both of you will submit a repo link to Moodle.
   - **After class**:
     - Fix anything that you had trouble with and needed help with.
-    - Read the Chapter 2: Simple Python Data (link coming soon) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read the [Chapter 2: Simple Python Data](https://runestone.academy/assignments/doAssignment?assignment_id=92806) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 1: Wednesday, January 12, 2022
   - **In class**:

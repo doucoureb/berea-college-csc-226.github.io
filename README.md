@@ -2,15 +2,6 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
-## Day 2: Friday, January 14, 2022
-  - **In class**:
-    - Questons on readings?
-    - Quiz Q00 on the [CSC 226 Course syllabus](https://docs.google.com/document/d/1ffcIRpCRh4acwO2PC3BQESf8XvPKJGvBzGAb9pJELgM/edit?usp=sharing) and [Chapter 1](https://runestone.academy/assignments/doAssignment?assignment_id=92454)  
-    - Begin T00: Exploring PyCharm (link coming soon) with a partner. Both of you will submit a repo link to Moodle.
-  - **After class**:
-    - Fix anything that you had trouble with and needed help with.
-    - Read the Chapter 2: Simple Python Data (link coming soon) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
-
 ## Day 1: Wednesday, January 12, 2022
   - **In class**:
     - Welcome

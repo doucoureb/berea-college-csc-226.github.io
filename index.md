@@ -6,10 +6,12 @@
   - **In class**:
     - Questons on readings?
     - Quiz Q00 on the [CSC 226 Course syllabus](https://docs.google.com/document/d/1ffcIRpCRh4acwO2PC3BQESf8XvPKJGvBzGAb9pJELgM/edit?usp=sharing) and [Chapter 1](https://runestone.academy/assignments/doAssignment?assignment_id=92454)  
-    - Begin T00: Exploring PyCharm (link coming soon) with a partner. Both of you will submit a repo link to Moodle.
+    - Begin [T00: Exploring PyCharm](https://docs.google.com/document/d/1mUR6j6YwkDSgMdMYBHde6X5avhh_fS7CFcgen8bD2wk/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
   - **After class**:
     - Fix anything that you had trouble with and needed help with.
     - Read the [Chapter 2: Simple Python Data](https://runestone.academy/assignments/doAssignment?assignment_id=92806) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Finish [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing) by visiting a TA.
+    - Finish [T00: Exploring PyCharm](https://docs.google.com/document/d/1mUR6j6YwkDSgMdMYBHde6X5avhh_fS7CFcgen8bD2wk/edit?usp=sharing).
 
 ## Day 1: Wednesday, January 12, 2022
   - **In class**:

@@ -12,6 +12,7 @@
   - **After class**:
     - Read [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93529) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Begin [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing) which is due in one week, on Wednesday, January 26, 2022.
+    - Complete and submit [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing) to Moodle.
 
 ## Day 3: Wednesday, January 19, 2022
   - **In class**:
@@ -23,7 +24,7 @@
   - **After class**:
     - Read the [Chapter 3: Debugging Interlude 1](https://runestone.academy/assignments/doAssignment?assignment_id=93310) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1mUR6j6YwkDSgMdMYBHde6X5avhh_fS7CFcgen8bD2wk/edit?usp=sharing) to Moodle before next time.
-    - Be sure to visit the evening lab (held virtually this week [here](https://berea.zoom.us/j/94626588259)) to talk with a TA so you can complete [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing). Then submit [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing) to Moodle before next time.
+    - Be sure to visit the evening lab (held virtually this week [here](https://berea.zoom.us/j/94626588259)) to talk with a TA so you can complete [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing). Then submit [A00: Getting Started](https://docs.google.com/document/d/13beZR-yPKMbT8bX35e9uBcf00g-joH1NCCkRoAKGKGM/edit?usp=sharing) to Moodle.
 
 ## Day 2: Friday, January 14, 2022
   - **In class**:

@@ -8,7 +8,7 @@
     - Quiz on [Chapter 3: Debugging Interlude 1](https://runestone.academy/assignments/doAssignment?assignment_id=93310)
     - Questons on PyCharm or Git and Github?
     - Continue working on [T00: Exploring PyCharm](https://docs.google.com/document/d/1mUR6j6YwkDSgMdMYBHde6X5avhh_fS7CFcgen8bD2wk/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle. This will be due before class on Monday, January 24.
-    - Launch T01???
+    - Launch [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1AZJpNvSpspYlsoxMhKfhtsQWEMaaMpIN49b91R0-Pzs/edit?usp=sharing)
   - **After class**:
     - Read [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93529) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Begin [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing) which is due in one week, on Wednesday, January 26, 2022.

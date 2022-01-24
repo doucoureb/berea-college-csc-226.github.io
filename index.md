@@ -2,7 +2,7 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
-## Day 5: Mpnday, January 24, 2022
+## Day 5: Monday, January 24, 2022
   - **In class**:
     - Questions on reading?
     - Quiz on [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93529).

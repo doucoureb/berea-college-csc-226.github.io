@@ -11,7 +11,7 @@
   - **After class**:
     - Complete and submit on [T00: Exploring PyCharm](https://docs.google.com/document/d/1mUR6j6YwkDSgMdMYBHde6X5avhh_fS7CFcgen8bD2wk/edit?usp=sharing) if you have not already!
     - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing) which is due on Friday, January 28, 2022.
-    - Complete and submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle. This will be due on Monday, August 30.
+    - Complete and submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) if you have not already. Both you and your partner will submit a repo link to Moodle.
     - Read [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93865)
 
 ## Day 4: Friday, January 21, 2022

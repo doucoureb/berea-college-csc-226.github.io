@@ -2,6 +2,18 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 5: Mpnday, January 24, 2022
+  - **In class**:
+    - Questions on reading?
+    - Quiz on [Chapter 4: Hello Turtles!](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93529).
+    - Discuss [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing) which is due Friday, January 28, 2022.
+    - Work on [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1AZJpNvSpspYlsoxMhKfhtsQWEMaaMpIN49b91R0-Pzs/edit?usp=sharing)
+  - **After class**:
+    - Complete and submit on [T00: Exploring PyCharm](https://docs.google.com/document/d/1mUR6j6YwkDSgMdMYBHde6X5avhh_fS7CFcgen8bD2wk/edit?usp=sharing) if you have not already!
+    - Continue [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing) which is due on Friday, January 28, 2022.
+    - Complete and submit [T00: Exploring PyCharm](https://docs.google.com/document/d/1cXdActfgB6wWmyJozWNgM_-ZfSDTWQw4fFVXYRufQlI/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle. This will be due on Monday, August 30.
+    - Read [Chapter 5: Python Modules] (link coming soon)
+
 ## Day 4: Friday, January 21, 2022
   - **In class**:
     - Questions on readings?

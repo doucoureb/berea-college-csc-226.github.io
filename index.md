@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 6: Wednesday, January 26, 2022
+  - **In class**:
+    - Questions on reading?
+    - Quiz on [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93865)
+    - Any questions on [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing) which is due on Friday, January 28, 2022.
+    - Continue [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1AZJpNvSpspYlsoxMhKfhtsQWEMaaMpIN49b91R0-Pzs/edit?usp=sharing)
+  - **After class**:
+    - No reading assignment for Friday!
+    - Complete and submit [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing)
+
 ## Day 5: Monday, January 24, 2022
   - **In class**:
     - Questions on reading?

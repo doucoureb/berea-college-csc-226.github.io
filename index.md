@@ -11,6 +11,7 @@
   - **After class**:
     - No reading assignment for Friday!
     - Complete and submit [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing)
+    - Complete and submit [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1AZJpNvSpspYlsoxMhKfhtsQWEMaaMpIN49b91R0-Pzs/edit?usp=sharing)
 
 ## Day 5: Monday, January 24, 2022
   - **In class**:

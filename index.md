@@ -10,7 +10,7 @@
   - **After class**:
     - Complete and submit [A01: Breaking Bad](https://docs.google.com/document/d/1mnO3oXpShe57H_1Y7sPUCFs_QCdvpverC3nq0zx9Hrc/edit?usp=sharing)
     - Be sure you have submitted [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1AZJpNvSpspYlsoxMhKfhtsQWEMaaMpIN49b91R0-Pzs/edit?usp=sharing) which is due by the end of the weekend.
-    - Read [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94602) in preparation for a reading quiz on Monday. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read [Chapter 6: Functions Part 1 - 6.1 - 6.5](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94602) in preparation for a reading quiz on Monday. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 6: Wednesday, January 26, 2022
   - **In class**:

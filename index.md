@@ -5,7 +5,7 @@
 ## Day 8: Monday, January 31, 2022
   - **In class**:
     - Questions
-    - Quiz on [Chapter 6: Functions Part 1 - 6.1 - 6.5](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94602)
+    - Quiz on [Chapter 6: Functions Part 1 - 6.1 - 6.5](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94781)
     - Launch [T02: Exploring Turtles](https://docs.google.com/document/d/1P0_U0gn-zjv4nThEpxBLyN3fhylVuNWMIXKJ-U8A7kE/edit?usp=sharing)
     - Launch [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1367acHcLAca16eDXqJK59-CHEZJmeX99aUgVO4RtMgc/edit?usp=sharing)
  - **After class**:

@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 9: Monday, September 6, 2021
+  - **In class**:
+    - Questions?
+    - Quiz on [Chapter 6: Functions Part 2 - 6.6 - 6.12](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94781)
+    - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1367acHcLAca16eDXqJK59-CHEZJmeX99aUgVO4RtMgc/edit?usp=sharing)
+    - Continue [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing)
+ - **After class**:
+   - Continue [T02: Exploring Turtles](https://docs.google.com/document/d/1bDW9-avtnKA0c6J_H_ny4e9-fr0dIRYPChHjSMoYxn8/edit?usp=sharing), submit if finished
+   - Continue [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1WuyOF_H_DV6X5VmZAG5xZIYA8mT-izz8Ctkn_zzAwmQ/edit?usp=sharing) which is due before class next time.
+
 ## Day 8: Monday, January 31, 2022
   - **In class**:
     - Questions

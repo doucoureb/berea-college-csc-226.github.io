@@ -2,6 +2,18 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 11: Monday, February 7, 2022
+  - **In class**:
+    - Art show for [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1367acHcLAca16eDXqJK59-CHEZJmeX99aUgVO4RtMgc/edit?usp=sharing)!!!
+    - Questions?
+    - Quiz over [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=95661)
+    - Begin [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing)
+    - Launch A03 (link coming soon)
+ - **After class**:
+   - Complete questions from [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=95661)
+   - Work on [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing)
+   - Work on Launch A03 (link coming soon)
+
 ## Day 10: Friday, February 4, 2022
   - **In class**:
     - Example of main function guard

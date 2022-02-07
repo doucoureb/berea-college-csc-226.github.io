@@ -8,11 +8,11 @@
     - Questions?
     - Quiz over [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=95661)
     - Begin [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing)
-    - Launch A03 (link coming soon)
+    - Launch [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)
  - **After class**:
    - Complete questions from [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=95661)
    - Work on [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing)
-   - Work on Launch A03 (link coming soon)
+   - Work on [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)
 
 ## Day 10: Friday, February 4, 2022
   - **In class**:

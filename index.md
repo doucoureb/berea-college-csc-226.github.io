@@ -11,6 +11,7 @@
     - Launch [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)
  - **After class**:
    - Complete questions from [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=95661)
+   - Read and complete assignment for [Chapter 8: More About Iteration - Part 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=95896)
    - Work on [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing)
    - Work on [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)
 

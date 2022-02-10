@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 13: Friday, February 11, 2022
+  - **In class**:
+    - Questions over reading or [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)?
+    - Quiz over [Chapter 8: More About Iteration - Part 2](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96250)
+    - Launch [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing)
+  - **After class**:
+    - Complete [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing) if you haven't already.
+    - Continue [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing).
+
 ## Day 12: Wednesday, February 9, 2022
   - **In class**:
     - Questions?

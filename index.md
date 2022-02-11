@@ -10,7 +10,7 @@
     - Launch [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing)
   - **After class**:
     - Complete [T03: Boustrophedon Turtles and Functions](https://docs.google.com/document/d/1RAf3IRFv51IGsKtJoZ-nlTlTGcDcbOUQZ-lRIG76BEw/edit?usp=sharing) if you haven't already.
-    - Continue [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing).
+    - Complete [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing), due by the end of Sunday.
 
 ## Day 12: Wednesday, February 9, 2022
   - **In class**:

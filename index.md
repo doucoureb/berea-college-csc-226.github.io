@@ -4,7 +4,8 @@
 
 ## Day 13: Friday, February 11, 2022
   - **In class**:
-    - Questions over reading or [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)?
+    - Demo for [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)
+    - Questions over reading?
     - Quiz over [Chapter 8: More About Iteration - Part 2](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96250)
     - Launch [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing)
   - **After class**:

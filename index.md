@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 14: Monday, February 14, 2022
+  - **In class**:
+    - Happy Valentine's Day!!!
+    - Work on [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing)
+    - Launch [A04: A Bug's Life](https://docs.google.com/document/d/1QEVgdBQi4Ug6vhQutyipPCz9MQiknrQ_O1iWl3pDFcI/edit?usp=sharing)
+  - **After class**:
+    - Work on [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing)
+    - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1QEVgdBQi4Ug6vhQutyipPCz9MQiknrQ_O1iWl3pDFcI/edit?usp=sharing)
+    - Read [Chapter 9: Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96766) in preparation for a quiz on Wednesday.
+
 ## Day 13: Friday, February 11, 2022
   - **In class**:
     - Demo for [A03: Functional Turtles](https://docs.google.com/document/d/1Jy43ikI87x6KtYRwhV43O6gDiAKn4ELE8y4iqi1wQ6I/edit?usp=sharing)

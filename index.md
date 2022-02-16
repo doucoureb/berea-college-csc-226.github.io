@@ -6,7 +6,6 @@
   - **In class**:
     - Questions over [Chapter 9: Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96766)
     - Quiz
-    - Work on [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing) for a few minutes if needed.
     - Launch [T05: Buggy Fruit](https://docs.google.com/document/d/150LX7eDQGdkrWisjE1esGa69BpqlOo7kk2vD8eXkwtQ/edit?usp=sharing)
     - Launch [AR1: Individual review for Exam 1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)
   - **After class**:

@@ -14,6 +14,7 @@
     - Complete [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing) if you haven't already.
     - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1QEVgdBQi4Ug6vhQutyipPCz9MQiknrQ_O1iWl3pDFcI/edit?usp=sharing)
     - No reading assignment for Friday.
+    - The midterm exam will be held on **Monday, February 28 at class time**!
 
 ## Day 14: Monday, February 14, 2022
   - **In class**:

@@ -2,6 +2,14 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 16: Friday, February 18, 2022
+  - **In class**:
+    - [TR1: Peerwise Review for Exam 1](https://docs.google.com/document/d/1Th-eGh6PmE3aqtcOqvNs6GKqDbNMnDdWLbhICZu-L0w/edit?usp=sharing).
+  - **After class**:
+    - COMPLETE ANY OF [TR1: Peerwise Review for Exam 1](https://docs.google.com/document/d/1Th-eGh6PmE3aqtcOqvNs6GKqDbNMnDdWLbhICZu-L0w/edit?usp=sharing) NOT DONE IN CLASS.  THIS IS DUE BY **MIDNIGHT TONIGHT**.
+    - Upload questions to Peerwise by **Noon Saturday, February 19**.  This way, I can create a review out of your questions to give to you Monday.
+    - The midterm exam will be held on **Monday, February 28 at class time**!
+
 ## Day 15: Wednesday, February 16, 2022
   - **In class**:
     - Questions over [Chapter 9: Strings](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96766)

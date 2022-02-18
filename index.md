@@ -5,6 +5,7 @@
 ## Day 16: Friday, February 18, 2022
   - **In class**:
     - [TR1: Peerwise Review for Exam 1](https://docs.google.com/document/d/1Th-eGh6PmE3aqtcOqvNs6GKqDbNMnDdWLbhICZu-L0w/edit?usp=sharing).
+    - Introduce [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
   - **After class**:
     - COMPLETE ANY OF [TR1: Peerwise Review for Exam 1](https://docs.google.com/document/d/1Th-eGh6PmE3aqtcOqvNs6GKqDbNMnDdWLbhICZu-L0w/edit?usp=sharing) NOT DONE IN CLASS.  THIS IS DUE BY **MIDNIGHT TONIGHT**.
     - Upload questions to Peerwise by **Noon Saturday, February 19**.  This way, I can create a review out of your questions to give to you Monday.

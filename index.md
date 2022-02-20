@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 17: Monday, February 11, 2022
+  - **In class**:
+    - Introduce the [Review Sheet for Exam 1](https://docs.google.com/document/d/1X8ktR4DQJXrF2NSKofIGD4P3PxZuHH2MTscCefJmXrA/edit?usp=sharing)
+    - Use class time to finish [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing) and [T05: Buggy Fruit](https://docs.google.com/document/d/150LX7eDQGdkrWisjE1esGa69BpqlOo7kk2vD8eXkwtQ/edit?usp=sharing) if you haven't already.
+    - If you are done with both of those, you may work on [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
+  - **After class**:
+    - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
+    - Read [Chapter 10: Lists (Part 1 - 10.1-10.14)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=97467) for next time.
+    - The midterm exam will be held on **Monday, February 28 at class time**!
+
 ## Day 16: Friday, February 18, 2022
   - **In class**:
     - [TR1: Peerwise Review for Exam 1](https://docs.google.com/document/d/1Th-eGh6PmE3aqtcOqvNs6GKqDbNMnDdWLbhICZu-L0w/edit?usp=sharing).

@@ -9,6 +9,7 @@
     - Work on [T05: Buggy Fruit](https://docs.google.com/document/d/150LX7eDQGdkrWisjE1esGa69BpqlOo7kk2vD8eXkwtQ/edit?usp=sharing) if needed.
     - Introduce [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
   - **After class**:
+    - Complete and submit [T05: Buggy Fruit](https://docs.google.com/document/d/150LX7eDQGdkrWisjE1esGa69BpqlOo7kk2vD8eXkwtQ/edit?usp=sharing).
     - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
     - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
     - Read [Chapter 10: Lists (Part 2 - 10.16-10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=97469) for next time.

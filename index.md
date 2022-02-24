@@ -2,6 +2,19 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 19: Friday, February 25, 2022
+  - **In class**:
+    - Questions?
+    - Quiz on [Chapter 10: Lists (Part 2 - 10.16-10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=97469) for next time.
+    - Any questions pertaining to the midterm exam?
+    - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
+  - **After class**:
+    - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
+    - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
+    - **BOTH OF THESE ARE DUE AFTER THE MIDTERM**
+    - The midterm exam will be held on **Monday, February 28 at class time**!
+    - [Review Sheet for Exam 1](https://docs.google.com/document/d/1X8ktR4DQJXrF2NSKofIGD4P3PxZuHH2MTscCefJmXrA/edit?usp=sharing).
+
 ## Day 18: Wednesday, February 23, 2022
   - **In class**:
     - Questions?
@@ -16,7 +29,7 @@
     - The midterm exam will be held on **Monday, February 28 at class time**!
     - [Review Sheet for Exam 1](https://docs.google.com/document/d/1X8ktR4DQJXrF2NSKofIGD4P3PxZuHH2MTscCefJmXrA/edit?usp=sharing).
 
-## Day 17: Monday, February 11, 2022
+## Day 17: Monday, February 21, 2022
   - **In class**:
     - Introduce the [Review Sheet for Exam 1](https://docs.google.com/document/d/1X8ktR4DQJXrF2NSKofIGD4P3PxZuHH2MTscCefJmXrA/edit?usp=sharing)
     - Use class time to finish [T04: Unit Testing](https://docs.google.com/document/d/1dZvmuVnB6n28wSS8m7Pcqj75QM-9oXMQbRSElhTJtIQ/edit?usp=sharing) and [T05: Buggy Fruit](https://docs.google.com/document/d/150LX7eDQGdkrWisjE1esGa69BpqlOo7kk2vD8eXkwtQ/edit?usp=sharing) if you haven't already.

@@ -5,7 +5,7 @@
 ## Day 19: Friday, February 25, 2022
   - **In class**:
     - Questions?
-    - Quiz on [Chapter 10: Lists (Part 2 - 10.16-10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=97469) for next time.
+    - Quiz on [Chapter 10: Lists (Part 2 - 10.16-10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=97469).
     - Any questions pertaining to the midterm exam?
     - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
   - **After class**:

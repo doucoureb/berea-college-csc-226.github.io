@@ -7,9 +7,10 @@
     - Questions over work we started before midterm?
     - Any questions pertaining to the midterm exam?
     - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
+    - Introduce [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing)
   - **After class**:
     - Read [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=98407).
-    - Work on [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
+    - Complete [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
     - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
 
 ## Day 20: Monday, February 28, 2022

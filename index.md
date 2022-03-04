@@ -2,6 +2,20 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 22: Friday, March 4, 2022
+  - **In class**:
+    - Questions over [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=98407)?
+    - Quiz
+    - Work on [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
+    - Introduce [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing).
+    - Introduce [T07: Mad Libs](https://docs.google.com/document/d/1OZQ1_OUB0ub7pE9IGypjJ4LQhBVekYfOW2xAWr__smw/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=98407).
+    - Complete [A05: The Game of Nim](https://docs.google.com/document/d/1wwdjkUQ2VIbgPMpSTqh_MMpzoTQrcHIX-d5txx4uVxA/edit?usp=sharing).
+    - Complete [T06: Funky Functions](https://docs.google.com/document/d/1KB2hYnu-wVVdqDkdTy80yWH0aCovkLia9LozMKbmqeU/edit?usp=sharing).
+    - Work on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing).
+    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 1 due the day we return from break.
+
 ## Day 21: Wednesday, March 2, 2022
   - **In class**:
     - Questions over work we started before midterm?

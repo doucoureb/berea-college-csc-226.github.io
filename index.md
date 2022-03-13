@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 23: Monday, March 14, 2022
+  - **In class**:
+    - Questions over [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=98938)?
+    - Quiz
+    - Debrief on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing).
+    - Check-in on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 1 due **TONIGHT AT MIDNIGHT**.
+    - Work on [T07: Mad Libs](https://docs.google.com/document/d/1OZQ1_OUB0ub7pE9IGypjJ4LQhBVekYfOW2xAWr__smw/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100068).
+    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 1 due TONIGHT, Milestone 2 due Friday.
+
 ## Day 22: Friday, March 4, 2022
   - **In class**:
     - Questions over [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=98407)?

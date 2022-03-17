@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 25: Friday, March 18, 2022
+  - **In class**:
+    - Questions on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 2 due **AT MIDNIGHT**.
+    - Work on [T07: Mad Libs](https://docs.google.com/document/d/1OZQ1_OUB0ub7pE9IGypjJ4LQhBVekYfOW2xAWr__smw/edit?usp=sharing) if necessary.
+    - Launch [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1UOhiWUNACuHUiwuJhj-8HbHTmiatXYTtGNENIupjSss/edit?usp=sharing).
+    - Launch [A07: UPC Barcodes](https://docs.google.com/document/d/1bNIeENw-egk5--mgbdruJ8-tNXcVz4k-wja2lP8iATk/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 17: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100069) for Monday.
+    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 2 due TONIGHT.
+    - Work on [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1UOhiWUNACuHUiwuJhj-8HbHTmiatXYTtGNENIupjSss/edit?usp=sharing) - brainstorm design ideas you did not get to in class so that you can continue designing with your partner on Monday.
+
 ## Day 24: Wednesday, March 16, 2022
   - **In class**:
     - Questions over [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100068)?
@@ -10,7 +21,7 @@
     - Work on [T07: Mad Libs](https://docs.google.com/document/d/1OZQ1_OUB0ub7pE9IGypjJ4LQhBVekYfOW2xAWr__smw/edit?usp=sharing).
   - **After class**:
     - No reading assignment for Friday!
-    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 1 due TONIGHT, Milestone 2 due Friday.
+    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/1H6oHglnNVB7Tqa8R-j9-mWZ7mmeQLl9NHW0_-4nwAtA/edit?usp=sharing) - Milestone 2 due Friday.
 
 ## Day 23: Monday, March 14, 2022
   - **In class**:

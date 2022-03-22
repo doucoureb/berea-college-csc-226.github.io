@@ -2,6 +2,14 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 27: Wednesday, March 23, 2022
+  - **In class**:
+    - Questions on [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100070)?
+    - Quiz
+    - Work on [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1UOhiWUNACuHUiwuJhj-8HbHTmiatXYTtGNENIupjSss/edit?usp=sharing).
+  - **After class**:
+    - Work on [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1UOhiWUNACuHUiwuJhj-8HbHTmiatXYTtGNENIupjSss/edit?usp=sharing) and [A07: UPC Barcodes](https://docs.google.com/document/d/1bNIeENw-egk5--mgbdruJ8-tNXcVz4k-wja2lP8iATk/edit?usp=sharing).
+
 ## Day 26: Monday, March 21, 2022
   - **In class**:
     - Questions on [Chapter 17: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100069)?

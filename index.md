@@ -9,7 +9,7 @@
   - **After class**:
     - Be sure to submit [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1UOhiWUNACuHUiwuJhj-8HbHTmiatXYTtGNENIupjSss/edit?usp=sharing).
     - Work on [A07: UPC Barcodes](https://docs.google.com/document/d/1bNIeENw-egk5--mgbdruJ8-tNXcVz4k-wja2lP8iATk/edit?usp=sharing).
-    - Read [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101192) for Monday.
+    - Read [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101193) for Monday.
 
 ## Day 27: Wednesday, March 23, 2022
   - **In class**:

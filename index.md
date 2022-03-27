@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 29: Monday, March 28, 2022
+  - **In class**:
+    - Questions on [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101193)?
+    - Quiz
+    - Launch [T09: Oh the Places You'll Go!](https://docs.google.com/document/d/1vyWRHPy6lweUFS3M9vnyeW-lNvT2nueir-yU9jOe4NM/edit?usp=sharing).
+  - **After class**:
+    - Work on [A07: UPC Barcodes](https://docs.google.com/document/d/1bNIeENw-egk5--mgbdruJ8-tNXcVz4k-wja2lP8iATk/edit?usp=sharing) if you are not finished.  It is due on **Wednesday by midnight**.
+    - Read [Chapter 13: GUI and Event Driven Programming (Part 1: 13.1 - 13.15)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101340).
+
 ## Day 28: Friday, March 25, 2022
   - **In class**:
     - Complete [T08: Designing the UPC Barcode Algorithm](https://docs.google.com/document/d/1UOhiWUNACuHUiwuJhj-8HbHTmiatXYTtGNENIupjSss/edit?usp=sharing).

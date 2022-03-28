@@ -4,10 +4,11 @@
 
 ## Day 29: Monday, March 28, 2022
   - **In class**:
+    - SWITCH GROUPS!
     - Questions on [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101193)?
     - Quiz
     - Launch [T09: Oh the Places You'll Go!](https://docs.google.com/document/d/1vyWRHPy6lweUFS3M9vnyeW-lNvT2nueir-yU9jOe4NM/edit?usp=sharing).
-    - Preview [A09: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing).
+    - Preview [A08: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing).
   - **After class**:
     - Work on [A07: UPC Barcodes](https://docs.google.com/document/d/1bNIeENw-egk5--mgbdruJ8-tNXcVz4k-wja2lP8iATk/edit?usp=sharing) if you are not finished.  It is due on **Wednesday by midnight**.
     - Read [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.15)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101340).

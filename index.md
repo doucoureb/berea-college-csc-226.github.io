@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 30: Wednesday, March 30, 2022
+  - **In class**:
+    - Questions on [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.15)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101340)?
+    - Quiz
+    - Work on [T09: Oh the Places You'll Go!](https://docs.google.com/document/d/1vyWRHPy6lweUFS3M9vnyeW-lNvT2nueir-yU9jOe4NM/edit?usp=sharing).
+    - Introduce [A08: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing).
+  - **After class**:
+    - Work on [A07: UPC Barcodes](https://docs.google.com/document/d/1bNIeENw-egk5--mgbdruJ8-tNXcVz4k-wja2lP8iATk/edit?usp=sharing) if you are not finished.  It is due on **TONIGHT by midnight**.
+    - Introduce [A08: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing).
+    - Read [Chapter 15: GUI and Event Driven Programming (Part 2: 15.16 - 15.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101689).
+
 ## Day 29: Monday, March 28, 2022
   - **In class**:
     - SWITCH GROUPS!

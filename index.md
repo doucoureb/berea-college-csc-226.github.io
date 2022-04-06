@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 33: Wednesday, April 6, 2022
+  - **In class**:
+    - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1VDGL2JhlqrRSMGk3W5lTKiw7thvM7l_fTsXyGK5PXAI/edit?usp=sharing).
+    - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
+    - Questions over [A08: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing) - DUE TONIGHT.
+    - Introduce [A09: Ciphers](https://docs.google.com/document/d/1d_yfTiFrQ_zr55FSTUwe30tGUpPrtwBJNorPk4o3HwE/edit?usp=sharing).
+  - **After class**:
+    - Complete [A08: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing).
+    - Complete [T10: Introduction to Classes](https://docs.google.com/document/d/1VDGL2JhlqrRSMGk3W5lTKiw7thvM7l_fTsXyGK5PXAI/edit?usp=sharing) - due Friday.
+
 ## Day 32: Monday, April 4, 2022
   - **In class**:
     - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1VDGL2JhlqrRSMGk3W5lTKiw7thvM7l_fTsXyGK5PXAI/edit?usp=sharing).

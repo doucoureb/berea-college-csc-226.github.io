@@ -4,6 +4,8 @@
 
 ## Day 33: Wednesday, April 6, 2022
   - **In class**:
+    - [Section B Zoom Room](https://berea.zoom.us/j/94942829132)
+    - [Section A Zoom Room](https://berea.zoom.us/j/94648512765)
     - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1VDGL2JhlqrRSMGk3W5lTKiw7thvM7l_fTsXyGK5PXAI/edit?usp=sharing).
     - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
     - Questions over [A08: Error Detection](https://docs.google.com/document/d/1AwqNSFL-GgayG6BXeX5qrjO5L6h94slXfxkFm9kPd34/edit?usp=sharing) - DUE TONIGHT.

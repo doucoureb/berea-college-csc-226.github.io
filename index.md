@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 34: Friday, April 8, 2022
+  - **In class**:
+    - [Section B Zoom Room](https://berea.zoom.us/j/94942829132)
+    - [Section A Zoom Room](https://berea.zoom.us/j/94648512765)
+    - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
+    - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1VDGL2JhlqrRSMGk3W5lTKiw7thvM7l_fTsXyGK5PXAI/edit?usp=sharing) - today is the last class period to do so.
+    - Introduce [T11: Events and GUIs](https://docs.google.com/document/d/1f-kvddAIINNQRCgZ88X9EwEt2pfPrc-qUHRHxgIPPHs/edit?usp=sharing).
+  - **After class**:
+    - Work on [A09: Ciphers](https://docs.google.com/document/d/1d_yfTiFrQ_zr55FSTUwe30tGUpPrtwBJNorPk4o3HwE/edit?usp=sharing).
+    - Complete [T10: Introduction to Classes](https://docs.google.com/document/d/1VDGL2JhlqrRSMGk3W5lTKiw7thvM7l_fTsXyGK5PXAI/edit?usp=sharing) - due **TONIGHT**.
+
 ## Day 33: Wednesday, April 6, 2022
   - **In class**:
     - [Section B Zoom Room](https://berea.zoom.us/j/94942829132)

@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 35: Monday, April 11, 2022
+  - **In class**:
+    - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
+    - Work on [T11: Events and GUIs](https://docs.google.com/document/d/1f-kvddAIINNQRCgZ88X9EwEt2pfPrc-qUHRHxgIPPHs/edit?usp=sharing).
+  - **After class**:
+    - Work on [A09: Ciphers](https://docs.google.com/document/d/1d_yfTiFrQ_zr55FSTUwe30tGUpPrtwBJNorPk4o3HwE/edit?usp=sharing).
+    - Work on material for Milestone 2 of the project.  This includes bringing in code files and creating skeletons for your classes/functions/unit tests.
+    - **Review material we have worked on since midterm.  We will be beginning the review process THIS WEEK for the final exam.**
+
 ## Day 34: Friday, April 8, 2022
   - **In class**:
     - [Section B Zoom Room](https://berea.zoom.us/j/94942829132)

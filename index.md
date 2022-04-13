@@ -2,6 +2,18 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 36: Wednesday, April 13, 2022
+  - **In class**:
+    - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
+    - Questions over [A09: Ciphers](https://docs.google.com/document/d/1d_yfTiFrQ_zr55FSTUwe30tGUpPrtwBJNorPk4o3HwE/edit?usp=sharing)?
+    - Work on [T11: Events and GUIs](https://docs.google.com/document/d/1f-kvddAIINNQRCgZ88X9EwEt2pfPrc-qUHRHxgIPPHs/edit?usp=sharing).
+    - Introduce [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+    - Introduce [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing).
+  - **After class**:
+    - Complete and submit [A09: Ciphers](https://docs.google.com/document/d/1d_yfTiFrQ_zr55FSTUwe30tGUpPrtwBJNorPk4o3HwE/edit?usp=sharing).
+    - Work on material for Milestone 2 of the project.  This includes bringing in code files and creating skeletons for your classes/functions/unit tests.
+    - [AR3: Exam 2 Review](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing).
+
 ## Day 35: Monday, April 11, 2022
   - **In class**:
     - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?

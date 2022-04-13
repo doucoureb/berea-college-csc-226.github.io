@@ -12,7 +12,8 @@
   - **After class**:
     - Complete and submit [A09: Ciphers](https://docs.google.com/document/d/1d_yfTiFrQ_zr55FSTUwe30tGUpPrtwBJNorPk4o3HwE/edit?usp=sharing).
     - Work on material for Milestone 2 of the project.  This includes bringing in code files and creating skeletons for your classes/functions/unit tests.
-    - [AR3: Exam 2 Review](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing).
+    - [AR3: Exam 2 Review](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing) **Due by Sunday at MIDNIGHT**.
+    - No class on Friday!
 
 ## Day 35: Monday, April 11, 2022
   - **In class**:

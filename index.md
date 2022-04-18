@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 37: Monday, April 18, 2022
+  - **In class**:
+    - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
+    - Questions over [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing)?
+    - [TR2: Peerwise Review for Exam 2](https://docs.google.com/document/d/1S_U1OiMMh41dw9MxyCz419htEMJisH1SGBlJ66Di5ek/edit?usp=sharing).
+  - **After class**:
+    - Work on [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+    - Work on [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing).
+    - Work on material for Milestone 3 of the project.
+
 ## Day 36: Wednesday, April 13, 2022
   - **In class**:
     - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?

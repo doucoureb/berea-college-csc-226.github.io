@@ -8,6 +8,7 @@
     - Questions over [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing) (DUE MONDAY)?
     - Work on [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
   - **After class**:
+    - Please fill out your IEQs! (You should have an email about them).  Due by Apr 29.
     - **REMINDER: EXAM 2 IS NEXT WEDNESDAY!!!**
     - Work on [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing).
     - Work on material for Milestone 3 of the project (DUE TONIGHT).

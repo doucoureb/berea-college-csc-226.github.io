@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Spring 2022 Offering
 
+## Day 39: Friday, April 22, 2022
+  - **In class**:
+    - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?
+    - Questions over [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing) (DUE FRIDAY)?
+    - Work on [T12: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+  - **After class**:
+    - **REMINDER: EXAM 2 IS NEXT WEDNESDAY!!!**
+    - Work on [A10: PPM](https://docs.google.com/document/d/1p-oNZTAKbrE5mwf4fKRmqvNN2tg0lY3szkxt1g8ZQYo/edit?usp=sharing).
+    - Work on material for Milestone 3 of the project (DUE TONIGHT).
+    - [Review for Exam 2](https://docs.google.com/document/d/1ref5cNI3Sr9-tZoeF7m_oeoevsLoY0JNVaDAUNz0-rU/edit?usp=sharing), on WEDNESDAY AT CLASS TIME.
+
 ## Day 38: Wenesday, April 20, 2022
   - **In class**:
     - Questions over [P01: Final Project](https://docs.google.com/document/d/167PDlAJoPw2yWc9OqJlhoPnnBLj2qZBC_LA4jzAJ7CE/edit?usp=sharing)?

@@ -7,7 +7,7 @@
     - Welcome
     - Icebreaker
     - Discussion of course: content, text, syllabus, flow, etc
-    - Sign up for the Text: [How to Think like a Computer Scientist](https://runestone.academy), using your Berea email and username to create a login and join the book csc226-spr22.
+    - Sign up for the Text: [How to Think like a Computer Scientist](https://runestone.academy), using your Berea email and username to create a login and join the book csc226-f22.
     - Program two robots to make PBJ sandwiches and debrief about programming them..
     - Launch [A00: Getting Started](https://docs.google.com/document/d/1ZhQLvXC_TzBwAh5smyKUBec8VLlEkT6SMSjsltGKmsY/edit?usp=sharing)
   - **After class (before Friday's class)**:

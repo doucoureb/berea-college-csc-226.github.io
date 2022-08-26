@@ -4,7 +4,7 @@
 
 ## Day 2: Friday, August 26, 2022
   - **In class**:
-    - Questons on readings?
+    - Questions on readings?
     - Quiz Q00 on the [CSC 226 Course syllabus](https://docs.google.com/document/d/1F_uAdZ2C7zNCmL3pSB8CBt4gOgEXICJcMO1ZsdOMCzw/edit?usp=sharing) and [Chapter 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103329)  
     - Begin [T00: Exploring PyCharm](https://docs.google.com/document/d/1iBweLUXDrt8c11CzvG1gtZULJDnHNl8oVICun0WU4ps/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
   - **After class**:

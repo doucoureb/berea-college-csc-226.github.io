@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 2: Friday, August 26, 2022
+  - **In class**:
+    - Questons on readings?
+    - Quiz Q00 on the [CSC 226 Course syllabus](https://docs.google.com/document/d/1F_uAdZ2C7zNCmL3pSB8CBt4gOgEXICJcMO1ZsdOMCzw/edit?usp=sharing) and [Chapter 1](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103329)  
+    - Begin [T00: Exploring PyCharm](https://docs.google.com/document/d/1iBweLUXDrt8c11CzvG1gtZULJDnHNl8oVICun0WU4ps/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.
+  - **After class**:
+    - Fix anything that you had trouble with and needed help with.
+    - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103338) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Work on [A00: Getting Started](https://docs.google.com/document/d/1ZhQLvXC_TzBwAh5smyKUBec8VLlEkT6SMSjsltGKmsY/edit?usp=sharing) by visiting a TA.
+    - Work on [T00: Exploring PyCharm](https://docs.google.com/document/d/1iBweLUXDrt8c11CzvG1gtZULJDnHNl8oVICun0WU4ps/edit?usp=sharing).
+
 ## Day 1: Wednesday, August 24, 2022
   - **In class**:
     - Welcome

@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 3: Monday, August 29, 2022
+  - **In class**:
+    - Questions on readings?
+    - Quiz Q01 on the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103338).
+    - Work on [T00: Exploring PyCharm](https://docs.google.com/document/d/1iBweLUXDrt8c11CzvG1gtZULJDnHNl8oVICun0WU4ps/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.  Any work left unfinished in class will need to be completed outside of class.
+  - **After class**:
+    - Read the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103338) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Finish [A00: Getting Started](https://docs.google.com/document/d/1ZhQLvXC_TzBwAh5smyKUBec8VLlEkT6SMSjsltGKmsY/edit?usp=sharing).  **DUE ON WEDNESDAY**
+    - Finish [T00: Exploring PyCharm](https://docs.google.com/document/d/1iBweLUXDrt8c11CzvG1gtZULJDnHNl8oVICun0WU4ps/edit?usp=sharing).
+
 ## Day 2: Friday, August 26, 2022
   - **In class**:
     - Questions on readings?

@@ -6,6 +6,7 @@
   - **In class**:
     - Questions on readings?
     - Quiz Q01 on the [Chapter 2: Simple Python Data](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103338).
+    - Questions on Python, PyCharm, Git, Github?
     - Work on [T00: Exploring PyCharm](https://docs.google.com/document/d/1iBweLUXDrt8c11CzvG1gtZULJDnHNl8oVICun0WU4ps/edit?usp=sharing) with a partner. Both of you will submit a repo link to Moodle.  Any work left unfinished in class will need to be completed outside of class.
   - **After class**:
     - Finish [A00: Getting Started](https://docs.google.com/document/d/1ZhQLvXC_TzBwAh5smyKUBec8VLlEkT6SMSjsltGKmsY/edit?usp=sharing).  **DUE ON WEDNESDAY**

@@ -2,7 +2,7 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
-## Day 3: Wednesday, August 31, 2022
+## Day 4: Wednesday, August 31, 2022
   - **In class**:
     - Brief discussion on using PyCharm and Github with multiple people.
     - Launch [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1zyetEw71VSQ9IXJE3MFBslvUke95rzlL3D8DSR99yQQ/edit?usp=sharing).

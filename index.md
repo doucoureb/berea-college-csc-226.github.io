@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 3: Wednesday, August 31, 2022
+  - **In class**:
+    - Brief discussion on using PyCharm and Github with multiple people.
+    - Launch [T01: Choose Your Own Adventure](https://docs.google.com/document/d/1zyetEw71VSQ9IXJE3MFBslvUke95rzlL3D8DSR99yQQ/edit?usp=sharing).
+    - Launch [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
+  - **After class**:
+    - Work on [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
+    - Read the [Chapter 3: Debugging Interlude](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=103345) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
 ## Day 3: Monday, August 29, 2022
   - **In class**:
     - Questions on readings?

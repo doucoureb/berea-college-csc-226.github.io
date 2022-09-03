@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 6: Monday, September 5, 2022
+  - **In class**:
+    - Questions on readings?
+    - Quiz Q03 on the [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=110844).
+    - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
+    - Launch [T02: Exploring Turtles]().
+  - **After class**:
+    - Complete [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
+
 ## Day 5: Friday, September 2, 2022
   - **In class**:
     - Questions on readings?

@@ -7,7 +7,7 @@
     - Questions on readings?
     - Quiz Q03 on the [Chapter 4: Python Turtle Graphics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=110844).
     - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
-    - Launch [T02: Exploring Turtles]().
+    - Launch [T02: Exploring Turtles](https://docs.google.com/document/d/1TqhvZPoyXpIJ2YCbYt-NbBekvxh8xcn1k6W7TxxUkY8/edit?usp=sharing).
   - **After class**:
     - Complete [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
 

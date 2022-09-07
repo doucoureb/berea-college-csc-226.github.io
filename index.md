@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 7: Wednesday, September 7, 2022
+  - **In class**:
+    - Questions on [A01: Breaking Bad](https://docs.google.com/document/d/1-q2jv9pGDpZYp4qOykzWqeENzR71wgTI0EqZIkaqonI/edit?usp=sharing).
+    - Work on [T02: Exploring Turtles](https://docs.google.com/document/d/1TqhvZPoyXpIJ2YCbYt-NbBekvxh8xcn1k6W7TxxUkY8/edit?usp=sharing).
+    - Launch [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 5: Python Modules](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=111197) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Work on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing).
+
 ## Day 6: Monday, September 5, 2022
   - **In class**:
     - Questions on readings?

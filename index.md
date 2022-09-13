@@ -2,12 +2,21 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 10: Wednesday, September 14, 2022
+  - **In class**:
+    - Art show for [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing)!
+    - Demonstration of "if name == main"
+    - Work on [T03: Boustrophedon Turtles](https://docs.google.com/document/d/1gFjOFDHTXpD6jyQFNAGz1X4gmAsHfXXrPkcFGUkAp8w/edit?usp=sharing).
+    - Launch A03
+  - **After class**:
+    - Work on A03.
+
 ## Day 9: Monday, September 12, 2022
   - **In class**:
     - Questions on [Chapter 6: Functions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=112150)?
     - Quiz Q05
     - Questions on [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing)?
-    - Launch [T03: Boustrophedon Turtles](https://docs.google.com/document/d/1gFjOFDHTXpD6jyQFNAGz1X4gmAsHfXXrPkcFGUkAp8w/edit?usp=sharing).
+    - Work on [T03: Boustrophedon Turtles](https://docs.google.com/document/d/1gFjOFDHTXpD6jyQFNAGz1X4gmAsHfXXrPkcFGUkAp8w/edit?usp=sharing).
   - **After class**:
     - Complete [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing).
     - Complete [T03: Boustrophedon Turtles](https://docs.google.com/document/d/1gFjOFDHTXpD6jyQFNAGz1X4gmAsHfXXrPkcFGUkAp8w/edit?usp=sharing) with your partner(s) if you have not already.  **MAKE SURE DOCUMENT SHARING IS ON OR YOU WILL RECEIVE A ZERO FOR THE ASSIGNMENT.**

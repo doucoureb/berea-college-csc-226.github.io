@@ -11,6 +11,7 @@
   - **After class**:
     - Read [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=113268) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Work on [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
+    - **Check your grades for R00, R01, and R02 in Runestone, and tell me if they are not what you think they should be.**
 
 ## Day 9: Monday, September 12, 2022
   - **In class**:

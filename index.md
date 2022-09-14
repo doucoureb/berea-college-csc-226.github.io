@@ -7,10 +7,10 @@
     - Art show for [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing)!
     - Demonstration of "if name == main"
     - Work on [T03: Boustrophedon Turtles](https://docs.google.com/document/d/1gFjOFDHTXpD6jyQFNAGz1X4gmAsHfXXrPkcFGUkAp8w/edit?usp=sharing).
-    - Launch A03
+    - Launch [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
   - **After class**:
     - Read [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=113268) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
-    - Work on A03.
+    - Work on [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
 
 ## Day 9: Monday, September 12, 2022
   - **In class**:

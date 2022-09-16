@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 11: Friday, September 16, 2022
+  - **In class**:
+    - Questions over [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=113268).
+    - Quiz Q06
+    - Launch [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 8: More About Iteration](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=113605) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Work on [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
+    - **Check your grades for R03, R04, and R05 in Runestone, and tell me if they are not what you think they should be.**
+
 ## Day 10: Wednesday, September 14, 2022
   - **In class**:
     - Art show for [A02: Loopy Turtles, Loopy Languages](https://docs.google.com/document/d/1k7Nz-zza1f7SB-ZiAJT_wrqQzhmlIGTEXZhhKRz0ouI/edit?usp=sharing)!

@@ -2,6 +2,22 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 12: Monday, September 19, 2022
+  - **In class**:
+    - Questions over [Chapter 8: More About Iteration](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=113605).
+    - Quiz Q07
+    - Work on [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
+  - **After class**:
+    - Complete [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
+    - Complete [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
+    - **EXAM 1 IS APPROACHING!  Here are relevant dates that we will discuss in class:**
+    - 28 Sep (Wed): AR1 launches (review the chapters we've read and determine the main points)
+    - 3 Oct (**Mon**): AR1 is due
+    - 3 Oct (**Mon**): Launch TR1 (writing review questions with your team)
+    - 5 Oct (Wed): TR1 is **DUE** (submit questions to Peerwise by midnight)
+    - 7 Oct (Fri): Post Review for Exam 1
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
 ## Day 11: Friday, September 16, 2022
   - **In class**:
     - Questions over [Chapter 7: Selection](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=113268).

@@ -9,8 +9,7 @@
     - Work on [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
   - **After class**:
     - Complete [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
-    - ~~Complete [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
-    - **[T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing) will be due on Friday!**
+    - ~~Complete [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).~~ **[T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing) will be due on Friday!**
     - **EXAM 1 IS APPROACHING!  Here are relevant dates that we will discuss in class:**
     - 28 Sep (Wed): AR1 launches (review the chapters we've read and determine the main points)
     - 3 Oct (**Mon**): AR1 is due

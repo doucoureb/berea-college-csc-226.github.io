@@ -8,7 +8,6 @@
     - Work on [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
     - Launch [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
   - **After class**:
-    - Complete [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing).
     - Complete [T04: Unit Testing](https://docs.google.com/document/d/1F7wCEBX0YovTeaKOKnnnhtwL-kwjtL9x40jc3sAy5No/edit?usp=sharing).
     - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
     - Read [Chapter 9: Strings Part 1 (9.1 - 9.12)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=114265) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!

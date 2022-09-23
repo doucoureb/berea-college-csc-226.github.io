@@ -2,6 +2,24 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 14: Friday, September 23, 2022
+  - **In class**:
+    - Questions over [Chapter 9: Strings Part 1 (9.1 - 9.12)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=114265)?
+    - Regroup!
+    - Quiz Q08
+    - A quick work about working with teammates.
+    - Launch [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
+  - **After class**:
+    - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
+    - Read [Chapter 9: Strings Part 2 (9.13, 9.14, 9.16 - 9.21)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=114802) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - **EXAM 1 IS APPROACHING!  Here are relevant dates that we will discuss in class:**
+    - 28 Sep (Wed): AR1 launches (review the chapters we've read and determine the main points)
+    - 3 Oct (**Mon**): AR1 is due
+    - 3 Oct (**Mon**): Launch TR1 (writing review questions with your team)
+    - 5 Oct (Wed): TR1 is **DUE** (submit questions to Peerwise by midnight)
+    - 7 Oct (Fri): Post Review for Exam 1
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
 ## Day 13: Wednesday, September 21, 2022
   - **In class**:
     - Questions over [A03: Functional Turtles](https://docs.google.com/document/d/1S7kI2jXaDSrOAfM-DThsCWvFRIKG1c7E5CmG4OK1Kus/edit?usp=sharing)?

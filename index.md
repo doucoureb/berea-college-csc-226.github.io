@@ -7,7 +7,7 @@
     - Questions over [Chapter 9: Strings Part 1 (9.1 - 9.12)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=114265)?
     - Regroup!
     - Quiz Q08
-    - A quick work about working with teammates.
+    - **A quick word about working with teammates.**
     - Launch [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
   - **After class**:
     - Work on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).

@@ -2,6 +2,21 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 15: Monday, September 26, 2022
+  - **In class**:
+    - Questions over [Chapter 9: Strings Part 2 (9.13, 9.14, 9.16 - 9.21)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=114802)?
+    - Quiz Q09
+    - Work on [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
+  - **After class**:
+    - Complete [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
+    - **EXAM 1 IS APPROACHING!  Here are relevant dates that we will discuss in class:**
+    - **28 Sep (Wed): AR1 LAUNCHES (review the chapters we've read and determine the main points)**
+    - 3 Oct (**Mon**): AR1 is due
+    - 3 Oct (**Mon**): Launch TR1 (writing review questions with your team)
+    - 5 Oct (Wed): TR1 is **DUE** (submit questions to Peerwise by midnight)
+    - 7 Oct (Fri): Post Review for Exam 1
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
 ## Day 14: Friday, September 23, 2022
   - **In class**:
     - Questions over [Chapter 9: Strings Part 1 (9.1 - 9.12)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=114265)?

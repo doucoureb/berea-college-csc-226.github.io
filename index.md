@@ -9,8 +9,8 @@
     - Work on [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
   - **After class**:
     - Complete [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
-    - **EXAM 1 IS APPROACHING!  Here are relevant dates that we will discuss in class:**
-    - **28 Sep (Wed): AR1 LAUNCHES (review the chapters we've read and determine the main points)**
+    - **EXAM 1 IS APPROACHING!**
+    - **28 SEP (WED): AR1 LAUNCHES**
     - 3 Oct (**Mon**): AR1 is due
     - 3 Oct (**Mon**): Launch TR1 (writing review questions with your team)
     - 5 Oct (Wed): TR1 is **DUE** (submit questions to Peerwise by midnight)

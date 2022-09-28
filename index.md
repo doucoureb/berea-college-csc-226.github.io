@@ -2,7 +2,7 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
-## Day 15: Monday, September 26, 2022
+## Day 16: Wednesday, September 28, 2022
   - **In class**:
     - **Launch [AR1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)**
     - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).

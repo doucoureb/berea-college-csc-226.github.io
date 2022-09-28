@@ -4,7 +4,7 @@
 
 ## Day 15: Monday, September 26, 2022
   - **In class**:
-    - **Launch AR1 (https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)**
+    - **Launch [AR1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)**
     - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
     - Work on [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
   - **After class**:

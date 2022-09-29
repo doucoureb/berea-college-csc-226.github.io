@@ -2,9 +2,37 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 17: Friday, September 29, 2022
+  - **In class**:
+    - Check in on [AR1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).
+    - Launch [T06: Funky Functions](https://docs.google.com/document/d/19os-O_Dv0chYbxHs8eqY_tJY_1iMZ_B0NlWeVi1LrBQ/edit?usp=sharing).
+  - **After class**:
+    - No reading for Monday!  Just focus on **[AR1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)** :).
+    - **EXAM 1 IS APPROACHING!**
+    - **3 Oct (Mon): AR1 is due**
+    - **3 Oct (Mon): Launch TR1 (writing review questions with your team)**
+    - 5 Oct (Wed): TR1 is **DUE** (submit questions to Peerwise by midnight)
+    - 7 Oct (Fri): Post Review for Exam 1
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
 ## Day 16: Wednesday, September 28, 2022
   - **In class**:
     - **Launch [AR1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)**
+    - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
+    - Work on [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
+  - **After class**:
+    - No reading for Friday!  Just focus on AR1 :).
+    - Complete [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
+    - **EXAM 1 IS APPROACHING!**
+    - **3 Oct (Mon): AR1 is due**
+    - **3 Oct (Mon): Launch TR1 (writing review questions with your team)**
+    - 5 Oct (Wed): TR1 is **DUE** (submit questions to Peerwise by midnight)
+    - 7 Oct (Fri): Post Review for Exam 1
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
+## Day 15: Monday, September 26, 2022
+  - **In class**:
+    - **Launch AR1 (https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing)**
     - Debrief on [A04: A Bug's Life](https://docs.google.com/document/d/1ypqRDZQChDeabMa_Tzv47N_hVruerRJ9ltizfe2GNVw/edit?usp=sharing).
     - Work on [T05: Buggy Fruit](https://docs.google.com/document/d/1lYptJbSRtTh8Ezl-Hbk2IU7VvIGPy1FC6O_NCL6GyFg/edit?usp=sharing).
   - **After class**:

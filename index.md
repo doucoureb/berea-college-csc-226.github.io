@@ -9,9 +9,10 @@
     - **Launch TR1 (writing review questions with your team)**
     - [Section A](https://docs.google.com/document/d/1B_6aztDYTTN-y9OOwYcgXjCAO5nzr-2ZM77SvILQEWw/edit?usp=sharing)
     - [Section B](https://docs.google.com/document/d/1gkVupbkhbbD4YQijbTqDgJaaStkU5yfgAc0dXTMgwJo/edit?usp=sharing)
+    - Go over [Peerwise](https://peerwise.cs.auckland.ac.nz/) and how to use it.
   - **After class**:
     - **EXAM 1 IS APPROACHING!**
-    - **5 Oct (Wed): TR1 is DUE (submit questions to Peerwise by midnight)**
+    - **5 Oct (Wed): TR1 is DUE (submit questions to [Peerwise](https://peerwise.cs.auckland.ac.nz/) by midnight)**
     - 7 Oct (Fri): Post Review for Exam 1
     - 14 Oct (Fri): Exam 1 (normal class period)
 

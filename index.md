@@ -2,6 +2,19 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 18: Monday, October 3, 2022
+  - **In class**:
+    - Quick recap of Bloom's Taxonomy and multiple choice questions
+    - **AR1 is due**
+    - **Launch TR1 (writing review questions with your team)**
+    - [Section A](https://docs.google.com/document/d/1B_6aztDYTTN-y9OOwYcgXjCAO5nzr-2ZM77SvILQEWw/edit?usp=sharing)
+    - [Section B](https://docs.google.com/document/d/1gkVupbkhbbD4YQijbTqDgJaaStkU5yfgAc0dXTMgwJo/edit?usp=sharing)
+  - **After class**:
+    - **EXAM 1 IS APPROACHING!**
+    - **5 Oct (Wed): TR1 is DUE (submit questions to Peerwise by midnight)**
+    - 7 Oct (Fri): Post Review for Exam 1
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
 ## Day 17: Friday, September 29, 2022
   - **In class**:
     - Check in on [AR1](https://docs.google.com/document/d/1Ppmmn3jAbeh6dsFHw6YcQhVfzp0aYo4cIegdwolB594/edit?usp=sharing).

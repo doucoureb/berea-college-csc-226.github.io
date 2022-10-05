@@ -2,6 +2,19 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 19: Wednesday, October 5, 2022
+  - **In class**:
+    - **Finish TR1 (writing review questions with your team)**
+    - **[Section A](https://docs.google.com/document/d/1B_6aztDYTTN-y9OOwYcgXjCAO5nzr-2ZM77SvILQEWw/edit?usp=sharing)**
+    - **[Section B](https://docs.google.com/document/d/1gkVupbkhbbD4YQijbTqDgJaaStkU5yfgAc0dXTMgwJo/edit?usp=sharing)**
+    - **5 Oct (Wed): TR1 is DUE (submit questions to [Peerwise](https://peerwise.cs.auckland.ac.nz/) by midnight)**
+    - Launch [A05: The Game of Nim](https://docs.google.com/document/d/1zaayymET-OkvASilmjDOvx8alElqQ-dAXlBx2pkKWMw/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 10: Lists Part 1 (10.1, 10.14)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=116210) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - **EXAM 1 IS APPROACHING!**
+    - **7 Oct (Fri): Post Review for Exam 1**
+    - 14 Oct (Fri): Exam 1 (normal class period)
+
 ## Day 18: Monday, October 3, 2022
   - **In class**:
     - Quick recap of Bloom's Taxonomy and multiple choice questions

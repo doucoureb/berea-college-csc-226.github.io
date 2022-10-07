@@ -2,6 +2,19 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 20: Friday, October 7, 2022
+  - **In class**:
+    - Questions on [Chapter 10: Lists Part 1 (10.1, 10.14)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=116210)?
+    - Q10
+    - **[EXAM 1 REVIEW](https://docs.google.com/document/d/17Imrom0XqHLWv6u7M6iWbaUwPICKvr0rZtSP1raOs_M/edit?usp=sharing)**
+    - Work on [T06: Funky Functions](https://docs.google.com/document/d/19os-O_Dv0chYbxHs8eqY_tJY_1iMZ_B0NlWeVi1LrBQ/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 10: Lists Part 2 (10.16, 10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=116531) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Complete [T06: Funky Functions](https://docs.google.com/document/d/19os-O_Dv0chYbxHs8eqY_tJY_1iMZ_B0NlWeVi1LrBQ/edit?usp=sharing).
+    - Complete [A05: The Game of Nim](https://docs.google.com/document/d/1zaayymET-OkvASilmjDOvx8alElqQ-dAXlBx2pkKWMw/edit?usp=sharing).
+    - **EXAM 1 IS APPROACHING!**
+    - **14 Oct (Fri): Exam 1 (normal class period)**
+
 ## Day 19: Wednesday, October 5, 2022
   - **In class**:
     - **Finish TR1 (writing review questions with your team)**

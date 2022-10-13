@@ -5,6 +5,8 @@
 ## Day 22: Friday, October 14, 2022
   - **In class**:
     - Exam E01
+    - Complete [A05: The Game of Nim](https://docs.google.com/document/d/1zaayymET-OkvASilmjDOvx8alElqQ-dAXlBx2pkKWMw/edit?usp=sharing) **DEADLINE FROZEN UNTIL MONDAY**.
+    - Complete [T06: Funky Functions](https://docs.google.com/document/d/19os-O_Dv0chYbxHs8eqY_tJY_1iMZ_B0NlWeVi1LrBQ/edit?usp=sharing) **DEADLINE FROZEN UNTIL MONDAY**.
 
 ## Day 21: Wednesday, October 12, 2022
   - **In class**:

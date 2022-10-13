@@ -2,6 +2,10 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 22: Friday, October 14, 2022
+  - **In class**:
+    - Exam E01
+
 ## Day 21: Wednesday, October 12, 2022
   - **In class**:
     - Questions on [Chapter 10: Lists Part 2 (10.16 - 10.30)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=116531)?

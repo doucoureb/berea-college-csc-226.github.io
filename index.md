@@ -7,11 +7,11 @@
     - Demo of solution for programming part of the exam
     - Team up! (AND check out the code I wrote to do it!)
     - Launch [T07: Mad Libs](https://docs.google.com/document/d/1OHxozdcn5Cm1LL4PveDwxpCk5QKhdmcRZYu4FJvkRwk/edit?usp=sharing).
-    - Launch [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing).
+    - Launch [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing).
   - **After class**:
     - Read [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=117441) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
-    - Work on [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing). **Milestone 1 Due on Friday!!!**.
-    - **NO CLASS ON WEDNESDAY FOR MOUNTAIN DAY!!!**
+    - Work on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing), due Wednesday 26 Oct.
+    - **NO CLASS THIS WEDNESDAY FOR MOUNTAIN DAY!!!**
 
 ## Day 22: Friday, October 14, 2022
   - **In class**:

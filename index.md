@@ -2,8 +2,6 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
-https://runestone.academy/runestone/assignments/doAssignment?assignment_id=118120
-
 ## Day 24: Friday, October 21, 2022
   - **In class**:
     - Questions on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing)?

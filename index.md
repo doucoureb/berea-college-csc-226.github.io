@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+https://runestone.academy/runestone/assignments/doAssignment?assignment_id=118120
+
+## Day 24: Friday, October 21, 2022
+  - **In class**:
+    - Questions on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing)?
+    - Work on [T07: Mad Libs](https://docs.google.com/document/d/1OHxozdcn5Cm1LL4PveDwxpCk5QKhdmcRZYu4FJvkRwk/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=118120) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Work on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing), due Wednesday 26 Oct.
+
 ## Day 23: Monday, October 17, 2022
   - **In class**:
     - Demo of solution for programming part of the exam

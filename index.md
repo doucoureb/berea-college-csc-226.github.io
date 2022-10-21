@@ -4,6 +4,8 @@
 
 ## Day 24: Friday, October 21, 2022
   - **In class**:
+    - Questions on [Chapter 11: Files](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=117441)?
+    - Q12
     - Questions on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing)?
     - Work on [T07: Mad Libs](https://docs.google.com/document/d/1OHxozdcn5Cm1LL4PveDwxpCk5QKhdmcRZYu4FJvkRwk/edit?usp=sharing).
   - **After class**:

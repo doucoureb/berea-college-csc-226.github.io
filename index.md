@@ -10,6 +10,7 @@
     - Launch [T08: Designing the UPC Bar Code Algorithm](https://docs.google.com/document/d/1KiXzjIgVRLHyJNxUWlW8vhomyZprWBb-ZVH373Z07n8/edit?usp=sharing).
   - **After class**:
     - Complete on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing), due Wednesday 26 Oct.
+    - Finish up [T07: Mad Libs](https://docs.google.com/document/d/1OHxozdcn5Cm1LL4PveDwxpCk5QKhdmcRZYu4FJvkRwk/edit?usp=sharing) if you haven't.
 
 ## Day 24: Friday, October 21, 2022
   - **In class**:

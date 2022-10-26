@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 26: Wednesday, October 26, 2022
+  - **In class**:
+    - Questions on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing)?
+    - Launch [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing) and discuss design process.
+    - Work on [T08: Designing the UPC Bar Code Algorithm](https://docs.google.com/document/d/1KiXzjIgVRLHyJNxUWlW8vhomyZprWBb-ZVH373Z07n8/edit?usp=sharing).
+  - **After class**:
+    - Finish up [T07: Mad Libs](https://docs.google.com/document/d/1OHxozdcn5Cm1LL4PveDwxpCk5QKhdmcRZYu4FJvkRwk/edit?usp=sharing) if you haven't.
+    - NO READING ASSIGNMENT FOR FRIDAY.
+
 ## Day 25: Monday, October 24, 2022
   - **In class**:
     - Questions on [Chapter 12: Dictionaries](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=118120)?

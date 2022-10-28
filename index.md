@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 27: Friday, October 28, 2022
+  - **In class**:
+    - Reminder about registration (esp. CSC236)
+    - Questions on [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing)?
+    - Work on [T08: Designing the UPC Bar Code Algorithm](https://docs.google.com/document/d/1KiXzjIgVRLHyJNxUWlW8vhomyZprWBb-ZVH373Z07n8/edit?usp=sharing).
+  - **After class**:
+    - Milestone 1 for [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing) due **TOMORROW NIGHT**.
+    - Read [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=118575) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
 ## Day 26: Wednesday, October 26, 2022
   - **In class**:
     - Questions on [AR2: Top-Down Design](https://docs.google.com/document/d/1PGaw3jlZOcHLEBx2Scy1MRQWHUU_trgo9NhlMlnNrhg/edit?usp=sharing)?

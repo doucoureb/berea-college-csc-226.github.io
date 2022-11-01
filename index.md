@@ -10,7 +10,7 @@
     - Questions on [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing)?
     - Launch [T09: Oh, the Places You'll Go!](https://docs.google.com/document/d/1N6dkvexHFmxqX8uqWuEhhtHcfWz5YTlZKzva-lsMHl4/edit?usp=sharing).
   - **After class**:
-    - Read [Chapter 14: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119053) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read [Chapter 14: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119053) in preparation for a reading quiz ON FRIDAY. Be sure you are logged in to the book when reading, and do all activities to get credit!
     - Complete [A06: It's In Your Genes](https://docs.google.com/document/d/1J0XGpcTUm8HAThLJSsnPxtNi6UMMUhkrP_MXne94ACQ/edit?usp=sharing).
 
 ## Day 27: Friday, October 28, 2022

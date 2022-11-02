@@ -2,6 +2,13 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 29: Wednesday, November 2, 2022
+  - **In class**:
+    - Launch [T09: Oh, the Places You'll Go!](https://docs.google.com/document/d/1N6dkvexHFmxqX8uqWuEhhtHcfWz5YTlZKzva-lsMHl4/edit?usp=sharing).
+    - Launch [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing).
+  - **After class**:
+    - Read [Chapter 14: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119053) in preparation for a reading quiz ON FRIDAY. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
 ## Day 28: Monday, October 31, 2022
   - **In class**:
     - Questions over [Chapter 13: Exceptions](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=118575)?

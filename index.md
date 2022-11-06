@@ -10,7 +10,7 @@
     - Launch [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
   - **After class**:
     - Complete [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing).
-    - Read [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119804) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119804) in preparation for a reading quiz FRIDAY. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 30: Friday, November 4, 2022
   - **In class**:

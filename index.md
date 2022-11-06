@@ -2,16 +2,25 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 31: Monday, November 7, 2022
+  - **In class**:
+    - Questions over [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119693)?
+    - Q16
+    - Questions over [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing)?
+    - Launch [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
+  - **After class**:
+    - Complete [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing).
+    - Read [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119804) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
 ## Day 30: Friday, November 4, 2022
   - **In class**:
     - Questions over [Chapter 17: Classes and Objects - The Basics](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119053)?
     - Q15
     - Work on [T09: Oh, the Places You'll Go!](https://docs.google.com/document/d/1N6dkvexHFmxqX8uqWuEhhtHcfWz5YTlZKzva-lsMHl4/edit?usp=sharing).
-    - Launch [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing).
   - **After class**:
     - Complete [T09: Oh, the Places You'll Go!](https://docs.google.com/document/d/1N6dkvexHFmxqX8uqWuEhhtHcfWz5YTlZKzva-lsMHl4/edit?usp=sharing).
     - Work on [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing).
-    - Read [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119693) in preparation for a reading quiz ON FRIDAY. Be sure you are logged in to the book when reading, and do all activities to get credit!
+    - Read [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119693) in preparation for a reading quiz next time. Be sure you are logged in to the book when reading, and do all activities to get credit!
 
 ## Day 29: Wednesday, November 2, 2022
   - **In class**:

@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 32: Wednesday, November 9, 2022
+  - **In class**:
+    - Debrief over [A07: UPC Barcodes](https://docs.google.com/document/d/1FvykpCQ76iBapoXnXJPZX-21F83xzBrygSiXAamrEEY/edit?usp=sharing)?
+    - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
+    - Launch [A08: Caesar Ciphers](https://docs.google.com/document/d/1n_y5bRVJEa0TO0401mppGlRc20IyBu6HIO3QnF6Hp-A/edit?usp=sharing).
+  - **After class**:
+    - Work on [A08: Caesar Ciphers](https://docs.google.com/document/d/1n_y5bRVJEa0TO0401mppGlRc20IyBu6HIO3QnF6Hp-A/edit?usp=sharing).
+    - Read [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119804) in preparation for a reading quiz FRIDAY. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
 ## Day 31: Monday, November 7, 2022
   - **In class**:
     - Questions over [Chapter 18: Classes and Objects - Digging a Little Deeper](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119693)?

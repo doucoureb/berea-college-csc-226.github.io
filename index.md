@@ -2,6 +2,17 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 33: Monday, November 14, 2022
+  - **In class**:
+    - Questions on [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.15)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=120621)?
+    - Q18
+    - Questions over [A08: Caesar Ciphers](https://docs.google.com/document/d/1n_y5bRVJEa0TO0401mppGlRc20IyBu6HIO3QnF6Hp-A/edit?usp=sharing)?
+    - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
+  - **After class**:
+    - Complete [A08: Caesar Ciphers](https://docs.google.com/document/d/1n_y5bRVJEa0TO0401mppGlRc20IyBu6HIO3QnF6Hp-A/edit?usp=sharing).
+    - Complete [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
+    - Read [Chapter 15: GUI and Event Driven Programming (Part 2: 15.16 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=120727) in preparation for a reading quiz FRIDAY. Be sure you are logged in to the book when reading, and do all activities to get credit!
+
 ## Day 33: Friday, November 11, 2022
   - **In class**:
     - Questions on [Chapter 19: Inheritance](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=119804)?

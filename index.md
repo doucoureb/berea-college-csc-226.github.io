@@ -6,6 +6,7 @@
   - **In class**:
     - Questions on [Chapter 15: GUI and Event Driven Programming (Part 1: 15.1 - 15.15)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=120621)?
     - Q18
+    - A quick word about timing for the review process for the second exam.
     - Questions over [A08: Caesar Ciphers](https://docs.google.com/document/d/1n_y5bRVJEa0TO0401mppGlRc20IyBu6HIO3QnF6Hp-A/edit?usp=sharing)?
     - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
   - **After class**:

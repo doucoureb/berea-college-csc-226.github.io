@@ -3,6 +3,7 @@
 #### Berea College Fall 2022 Offering
 
 ## Day 34: Wednesday, November 16, 2022
+  - **[SIGN UP FOR GREAT CONVERSATIONS](https://www.beyondberea.org/events/2022/11/17/great-conversations-2/)**
   - **In class**:
     - Something [special](https://www.kudoboard.com/boards/ywsyrAT1) for someone in the department.
     - **DID SOMEBODY SAY EXTRA CREDIT?!?!?!  Check Moodle.**

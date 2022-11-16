@@ -7,7 +7,7 @@
     - Something [special](https://www.kudoboard.com/boards/ywsyrAT1) for someone in the department.
     - **DID SOMEBODY SAY EXTRA CREDIT?!?!?!  Check Moodle.**
     - Debrief on [A08: Caesar Ciphers](https://docs.google.com/document/d/1n_y5bRVJEa0TO0401mppGlRc20IyBu6HIO3QnF6Hp-A/edit?usp=sharing) and getting used to classes.
-    - - Launch [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).  **This will be due on Wednesday 30 Nov.**
+    - Launch [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).  **This will be due on Wednesday 30 Nov.**
     - Work on [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).
   - **After class**:
     - Complete [T10: Introduction to Classes](https://docs.google.com/document/d/1gSrfBy8S5C2ExOeC9Xq96801quJyHXs7tlyXVuxGkrk/edit?usp=sharing).

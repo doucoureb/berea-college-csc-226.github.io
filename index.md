@@ -2,6 +2,15 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 35: Friday, November 18, 2022
+  - **In class**:
+    - Questions over [Chapter 15: GUI and Event Driven Programming (Part 2: 15.16 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=120727)?
+    - Q19
+    - Launch [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+    - Introduce the [FINAL PROJECT](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)!!!
+  - **After class**:
+    - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
+
 ## Day 34: Wednesday, November 16, 2022
   - **[SIGN UP FOR GREAT CONVERSATIONS](https://www.beyondberea.org/events/2022/11/17/great-conversations-2/)**
   - **In class**:

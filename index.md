@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 36: Monday, November 21, 2022
+  - **In class**:
+    - Questions over [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing)?
+    - Questions on [FINAL PROJECT](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)? **Milestone 1 due THIS FRIDAY**
+    - Launch [AR3 - Chapter Reviews for Exam E2](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing)
+    - Work on [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+  - **After class**:
+    - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
+    - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)
+
 ## Day 35: Friday, November 18, 2022
   - **In class**:
     - Questions over [Chapter 15: GUI and Event Driven Programming (Part 2: 15.16 - 15.31)](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=120727)?

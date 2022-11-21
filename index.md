@@ -12,6 +12,7 @@
     - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
     - Work on [AR3 - Chapter Reviews for Exam E2](https://docs.google.com/document/d/143fsCOdw1HbucNw0fpDvSFEZSMUYbDQ4sCNEfiGN9w8/edit?usp=sharing).
     - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing).
+    - [HERE IS T12 FOR YOU TO LOOK AT](https://docs.google.com/document/d/1UWZ8JO7i1Dnl1Fwb1SGa6b-kXRD3qsNHqaZpgT_W6p8/edit?usp=sharing).
 
 ## Day 35: Friday, November 18, 2022
   - **In class**:

@@ -2,6 +2,16 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 37: Monday, November 28, 2022
+  - **In class**:
+    - Questions over [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing)?
+    - Questions on [FINAL PROJECT](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)? **Milestone 2 due THIS FRIDAY**
+    - Launch [TR3 - Peerwise Questions for Exam E2](https://docs.google.com/document/d/1OkeFduaW6l24RufOBp0T9YT2rnO8lDyrPA8lBuTJ7jQ/edit?usp=sharing).
+  - **After class**:
+    - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
+    - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing).
+    - [HERE IS T12 FOR YOU TO LOOK AT](https://docs.google.com/document/d/1UWZ8JO7i1Dnl1Fwb1SGa6b-kXRD3qsNHqaZpgT_W6p8/edit?usp=sharing).
+
 ## Day 36: Monday, November 21, 2022
   - **In class**:
     - Questions over [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing)?

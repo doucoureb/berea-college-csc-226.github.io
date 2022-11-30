@@ -6,7 +6,7 @@
   - **In class**:
     - Questions over [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing)?
     - Questions on [FINAL PROJECT](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)? **Milestone 2 due THIS FRIDAY**
-    - **FINISH [TR2 - Peerwise Questions for Exam E2](https://docs.google.com/document/d/1OkeFduaW6l24RufOBp0T9YT2rnO8lDyrPA8lBuTJ7jQ/edit?usp=sharing) (submit questions to [Peerwise](https://peerwise.cs.auckland.ac.nz/) by the end of class)**.
+    - **FINISH [TR2 - Peerwise Questions for Exam E2](https://docs.google.com/document/d/1OkeFduaW6l24RufOBp0T9YT2rnO8lDyrPA8lBuTJ7jQ/edit?usp=sharing) (submit questions to [Peerwise](https://peerwise.cs.auckland.ac.nz/) by the end of class -- COURSE ID 25454)**.
   - **After class**:
     - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
     - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing).

@@ -2,6 +2,19 @@
 ### Prof. Patrick Shepherd
 #### Berea College Fall 2022 Offering
 
+## Day 39: Friday, December 2, 2022
+  - **In class**:
+    - **[E2 REVIEW](https://docs.google.com/document/d/1T7LUJ8x3mktb0iWL1fOTwcYgiANA_3pXzBxJAuGNuis/edit?usp=sharing)**
+    - Questions over [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing)?
+    - Questions on [FINAL PROJECT](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)? **Milestone 2 due THIS FRIDAY**
+    - Work on [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+  - **After class**:
+  - **IEQs are available - Please rate me!!! [LINK](https://webapps.berea.edu/ieqs/)**
+    - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
+    - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing).
+    - Complete [T11: Deep vs. Shallow Copy](https://docs.google.com/document/d/15VVbGz0ALL9sp9nMBBZ8F3mD4sapiGFGtAXQydi-CII/edit?usp=sharing).
+    - [HERE IS T12 FOR YOU TO LOOK AT](https://docs.google.com/document/d/1UWZ8JO7i1Dnl1Fwb1SGa6b-kXRD3qsNHqaZpgT_W6p8/edit?usp=sharing).
+
 ## Day 38: Wednesday, November 30, 2022
   - **In class**:
     - Questions over [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing)?

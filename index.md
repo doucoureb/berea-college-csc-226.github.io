@@ -9,7 +9,7 @@
     - Questions on [FINAL PROJECT](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing)? **Milestone 3 due THIS FRIDAY**
     - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing).
   - **After class**:
-  - **IEQs are available - Please rate me!!! [LINK](https://webapps.berea.edu/ieqs/)**
+    - **IEQs are available - Please rate me!!! [LINK](https://webapps.berea.edu/ieqs/)**
     - Work on [A09: PPM](https://docs.google.com/document/d/13KUcjVpkhJ8k37Ds7QHKtQP5T48YXIHLXcjWte217EI/edit?usp=sharing).
     - Work on [Final Project](https://docs.google.com/document/d/1xWet1GCT2ErCkvVHuNhCLfUFWXJOl5oTj5qKi_5ZfNc/edit?usp=sharing).
     - [HERE IS T12 FOR YOU TO LOOK AT](https://docs.google.com/document/d/1UWZ8JO7i1Dnl1Fwb1SGa6b-kXRD3qsNHqaZpgT_W6p8/edit?usp=sharing).
